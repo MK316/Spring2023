@@ -9,7 +9,7 @@
 
 # 🐬 Supplement materials
 
-|   |Keywords|Python notebook|References|Remarks|
+|   |Keywords|Python notebook|Description|Referecnes|
 |---|---|---|---|---|
 | 1  |   |   |   |   |
 | 2  |   |   |   |   |
