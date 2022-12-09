@@ -1,10 +1,8 @@
 # 🐤 Spring2023
 
-|--|--|--|
-|Classes|Subject|Schedule|
 
-|   |Subject|Topics   |Lecture   |Practice   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|Schedule|Subject|Level|Topics|Lecture|Practice|
+|---|---|---|---|---|---|
+| TBA  | Digital Literacy and English Education   |   |   |   |   |
+|   | English Pronunciation Pratice  |   |   |   |   |
+|   | English Pronunciation Assessment  |   |   |   |   |
