@@ -3,9 +3,9 @@
 
 |Schedule|Subject|Level|Topics|Lecture|Practice|
 |---|---|---|---|---|---|
-| TBA  | Digital Literacy and English Education   | Undergraduate (sophomores)  |   |   |   |
-|   | English Pronunciation Pratice  | Undergraduate (freshmen)   |   |   |   |
-|   | English Pronunciation Assessment  | Graduate   |   |   |   |
+| TBA  | Digital Literacy and English Education (2 Credits)   | Undergraduate (sophomores)  |   |   |   |
+|   | English Pronunciation Pratice (3 Credits)  | Undergraduate (freshmen)   |   |   |   |
+|   | English Pronunciation Assessment (3 Credits) | Graduate   |   |   |   |
 
 # 🐬 Supplement materials
 
