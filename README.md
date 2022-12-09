@@ -3,7 +3,7 @@
 |--|--|--|
 |Classes|Subject|Schedule|
 
-|   |   |   |   |   |
+|   |Subject|Topics   |Lecture   |Practice   |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
