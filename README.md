@@ -1,11 +1,11 @@
 # 🐤 Spring2023
 
 
-|Schedule|Subject|Level|Topics|Lecture|Practice|
-|---|---|---|---|---|---|
-| TBA  | Digital Literacy and English Education (2 Credits)   | Undergraduate (sophomores)  |   |   |   |
-|   | English Pronunciation Pratice (3 Credits)  | Undergraduate (freshmen)   |   |   |   |
-|   | English Pronunciation Assessment (3 Credits) | Graduate   |   |   |   |
+|Schedule|Subject|Level|Credits|Topics|Lecture|Practice|
+|---|---|---|---|---|---|---|
+| TBA  | Digital Literacy and English Education | Undergraduate (sophomores)  | 2   |   |   |   |
+|   | English Pronunciation Pratice  | Undergraduate (freshmen)   | 3  |   |   |   |
+|   | English Pronunciation Assessment | Graduate   | 3   |   |   |   |
 
 # 🐬 Supplement materials
 
