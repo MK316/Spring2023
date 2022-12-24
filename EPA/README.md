@@ -8,7 +8,10 @@ This course will cover the assessment of English pronunciation in second languag
 
 |Week|Date|Topic|Class material|Assignments|
 |--|--|--|--|--|
-|W01A|Mar.8|Course overview, Setting up software, etc.|Reading01[^1]|Assign01[^2]|
+|W01a|Mar.8|Course overview, Setting up software, etc.|Reading01[^1]|Assign01[^2]|
+|W01b|Mar.13| Exploration of tools.|Reading01|Assign01|
+|W02a|Mar.15| | |
+
 
 [^1]: Introductory article (TBA)
 [^2]: (1) Open a Github account (2) Create a repository and name it as "EPAS2023" (3) Send me your account name via email (mirankim@gmail.com) by Mar.11(Sat). (e.g., github.com/MK316)
