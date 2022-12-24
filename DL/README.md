@@ -23,13 +23,13 @@ By the end of this course, students will have a strong foundation in digital lit
 |W03|||||
 |W04|||||
 |W05|||||
-|W06||Midterm|||
+|**W06**||Midterm|||
 |W07|||||
-|W08|||||
+|**W08**|||||
 |W09|||||
 |W10|||||
 |W11|||||
 |W12|||||
 |W13|||||
-|W14|||||
-|W15||Final project|||
+|**W14**|||||
+|**W15**||Final project presentation|||
