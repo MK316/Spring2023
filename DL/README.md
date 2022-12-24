@@ -1,4 +1,4 @@
-# Digital Literacy and English Education (Spring 2023)
+# 🌱 Digital Literacy and English Education (Spring 2023)
 
 - Undergraduate course (2 Credits)
 
