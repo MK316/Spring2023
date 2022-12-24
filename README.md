@@ -1,7 +1,7 @@
 # 🕒 Spring2023
 
 
-|Schedule|Subject (link)|Level|Credits|Description|
+|Schedule|Subject (link)|Level|Credits|Course descriptions|
 |:---:|---|---|:---:|---|
 | Wednesdays  | [Digital Literacy and English Education](https://github.com/MK316/Spring2023/tree/main/DL) | UG (2nd Year)  | 2   | This course prepares future English teachers to use digital tools to improve their own English skills and effectively teach their future students. It covers a range of teaching materials and techniques for effectively utilizing digital resources in the English language classroom.  | 
 | Tuesdays & Thursdays  | [English Pronunciation Pratice](https://github.com/MK316/Spring2023/tree/main/Engpro)  | UG (1st Year)   |3  | This course is designed for future English teachers and covers English pronunciation, including exercises, activities, and strategies for improving and correcting errors, as well as improving their own pronunciation. It aims to help students become more effective at teaching pronunciation to their own students.  | 
