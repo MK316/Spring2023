@@ -21,15 +21,15 @@ By the end of this course, students will have a strong foundation in digital lit
 |W01| |Course overview, Class arrangements, Class materials, etc. | | |
 |W02|||||
 |W03|||||
-|W04|||||
+|W04||||Assign#1|
 |W05|||||
-|W06|||||
-|**W07**||**_Midterm (Individual task)_**|||
+|**W06**||**_Midterm (Individual task)_**|||
+|W07|||||
 |W08|||||
 |W09|||||
-|W10|||||
+|W10||||Assign#2|
 |W11|||||
 |W12|||||
 |W13|||||
 |**W14**||Project submission|||
-|**W15**||Final project presentation|||
+|**W15**||Final project (group) presentation|||
