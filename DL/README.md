@@ -23,9 +23,9 @@ By the end of this course, students will have a strong foundation in digital lit
 |W03|||||
 |W04|||||
 |W05|||||
-|**W06**||Midterm|||
-|W07|||||
-|**W08**|||||
+|W06|||||
+|**W07**||**_Midterm_(Individual task)**|||
+|W08|||||
 |W09|||||
 |W10|||||
 |W11|||||
