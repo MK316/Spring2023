@@ -3,7 +3,7 @@
 
 |Schedule|Subject (link)|Level|Credits|Description|
 |:---:|---|---|:---:|---|
-| Wednesdays  | [Digital Literacy and English Education](https://github.com/MK316/Spring2023/tree/main/DL) | Undergraduate (sophomores)  | 2   |   | 
+| Wednesdays  | [Digital Literacy and English Education](https://github.com/MK316/Spring2023/tree/main/DL) | Undergraduate (sophomores)  | 2   | This course prepares future English teachers to use digital tools to improve their own English skills and effectively teach their future students. It covers a range of teaching materials and techniques for effectively utilizing digital resources in the English language classroom.  | 
 | Tuesdays & Thursdays  | [English Pronunciation Pratice](https://github.com/MK316/Spring2023/tree/main/Engpro)  | Undergraduate (freshmen)   |3  |   | 
 | Wednesdays  | [English Pronunciation Assessment](https://github.com/MK316/Spring2023/tree/main/EPA) | Graduate   | 3   |   | 
 
