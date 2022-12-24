@@ -19,5 +19,17 @@ By the end of this course, students will have a strong foundation in digital lit
 |Week|Date|Topic|Online material(NB)|References|Assignments|
 |--|--|--|--|--|--|
 |W01| |Course overview, Class arrangements, Class materials, etc. | | |
-||||||
-||||||
+|W02|||||
+|W03|||||
+|W04|||||
+|W05|||||
+|W06|||||
+|W07||Midterm|||
+|W08|||||
+|W09|||||
+|W10|||||
+|W11|||||
+|W12|||||
+|W13|||||
+|W14|||||
+|W15|||||
