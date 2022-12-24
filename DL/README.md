@@ -16,6 +16,8 @@ By the end of this course, students will have a strong foundation in digital lit
 
 ## Course Schedule & Materials
 
-|Week|Date|Topic|Online material|References|Assignments|
+|Week|Date|Topic|Online material(NB)|References|Assignments|
 |--|--|--|--|--|--|
-| | | | | |
+|W01| |Course overview, Class arrangements, Class materials, etc. | | |
+||||||
+||||||
