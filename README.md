@@ -1,7 +1,7 @@
 # 🕒 Spring2023
 
 
-|Schedule|Subject|Level|Credits|Topics|Lecture|Practice|
+|Schedule|Subject (link)|Level|Credits|Topics|Lecture|Practice|
 |:---:|---|---|:---:|---|---|---|
 | TBA  | [Digital Literacy and English Education](https://github.com/MK316/Spring2023/tree/main/DL) | Undergraduate (sophomores)  | 2   |   |   |   |
 | TBA  | [English Pronunciation Pratice](https://github.com/MK316/Spring2023/tree/main/Engpro)  | Undergraduate (freshmen)   |3  |   |   |   |
