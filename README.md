@@ -3,9 +3,9 @@
 
 |Schedule|Subject|Level|Credits|Topics|Lecture|Practice|
 |:---:|---|---|:---:|---|---|---|
-| TBA  | Digital Literacy and English Education | Undergraduate (sophomores)  | 2   |   |   |   |
-| TBA  | English Pronunciation Pratice  | Undergraduate (freshmen)   |3  |   |   |   |
-| Wednesdays  | English Pronunciation Assessment | Graduate   | 3   |   |   |   |
+| TBA  | [Digital Literacy and English Education](https://github.com/MK316/Spring2023/tree/main/DL) | Undergraduate (sophomores)  | 2   |   |   |   |
+| TBA  | [English Pronunciation Pratice](https://github.com/MK316/Spring2023/tree/main/Engpro)  | Undergraduate (freshmen)   |3  |   |   |   |
+| Wednesdays  | [English Pronunciation Assessment](https://github.com/MK316/Spring2023/tree/main/EPA) | Graduate   | 3   |   |   |   |
 
 ## ☑️ Supplement materials
 
