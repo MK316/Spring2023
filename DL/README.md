@@ -31,5 +31,5 @@ By the end of this course, students will have a strong foundation in digital lit
 |W11|||||
 |W12|||||
 |W13|||||
-|**W14**|||||
+|**W14**||Project submission|||
 |**W15**||Final project presentation|||
