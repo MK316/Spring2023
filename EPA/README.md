@@ -7,10 +7,10 @@ This course will cover the assessment of English pronunciation in second languag
 ## Course Schedule and materials
 
 |Week|Date|Topic|Class material|Notebook|Assignments|
-|--|--|--|--|--|
+|--|--|--|--|--|--|
 |W01a|Mar.8|Course overview, Setting up basic tools, etc.|Reading01[^1]|[NB01]|Assign01[^2]|
-|W01b|Mar.13| Exploration of tools.|Reading01|Assign01|
-|W02a|Mar.15| | |
+|W01b|Mar.13| Exploration of tools.|Reading01|Assign01||
+|W02a|Mar.15| | ||
 
 
 
