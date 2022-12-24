@@ -14,4 +14,8 @@ Thus, the ability to use digital tools and platforms is essential for language t
 
 By the end of this course, students will have a strong foundation in digital literacy and be well-prepared to utilize digital tools and technologies to enhance their teaching practice and facilitate the language learning of their students.
 
+## Course Schedule & Materials
 
+|Week|Date|Topic|Online material|References|Assignments|
+|--|--|--|--|--|--|
+| | | | | |
