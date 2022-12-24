@@ -12,10 +12,10 @@ This course will cover the assessment of English pronunciation in second languag
 |W01b|Mar.13| Exploration of tools.|Reading01|Assign01|
 |W02a|Mar.15| | |
 
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
+|             |          Grouping           |
+|First Header  | Second Header | Third Header |
+|------------ | :-----------: | -----------: |
+|Content       |          *Long Cell*        ||
 Content       |   **Cell**    |         Cell |
 
 New section   |     More      |         Data |
