@@ -12,7 +12,7 @@
 |   |Keywords|Python notebook|Description|Referecnes|
 |---|---|---|---|---|
 | 1  | Text-to-Video, AI | [Code page](https://github.com/MK316/Class_Spring2022/blob/main/Animated_Video_with_AI.ipynb)  | Creating Animated Video with AI  | [Youtube tutorial](https://www.youtube.com/watch?v=YZHZrKgtNbA&t=866s)  |
-|  2 |   |   |   |   |
+|  2 | Text-to-Image (Replicate), AI  | [App](https://replicate.com/stability-ai/stable-diffusion)  |Creating images based on text description |   |
 | 3  |   |   |   |   |
 | 4  |   |   |   |   |
 | 5  |   |   |   |   |
