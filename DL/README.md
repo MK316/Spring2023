@@ -18,8 +18,8 @@ By the end of this course, students will have a strong foundation in digital lit
 
 |Week|Date|Topic|Online material(NB)|References|Assignments|
 |--|--|--|--|--|--|
-|W01| |Course overview, Class arrangements, Class materials, etc. | | |
-|W02||||||
+|W01| |Course overview, Class arrangements, Class materials, etc. |Colab, github | |
+|W02||Coding Basics on colab, Github repository||||
 |W03||||||
 |W04|||||Assign#1|
 |W05||||||
