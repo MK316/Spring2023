@@ -7,7 +7,7 @@
 | Tuesdays <br> (4-6pm)  | [Digital Literacy and English Education](https://github.com/MK316/Spring2023/tree/main/DL) | UG <br> (2nd Year)  | 2   | This course prepares future English teachers to use digital tools to improve their own English skills and effectively teach their future students. It covers a range of teaching materials and techniques for effectively utilizing digital resources in their future English language classroom.  |  
 | Wednesdays <br> (7pm-)  | [English Pronunciation Assessment](https://github.com/MK316/Spring2023/tree/main/EPA) | Graduate   | 3   | This course examines the evaluation goals and standards for pronunciation assessment, techniques, and research on how to improve the English pronunciation skills of second language learners. It discusses English sounds, stress and intonation patterns, and common pronunciation mistakes, and teaches students how to use assessment tools and provide feedback to students. The course is suitable for English teachers or language educators.  | 
 
-## ☑️ Supplement materials
+## ☑️ Supplement materials (shared across courses)
 
 |   |Keywords|Python notebook|Description|Referecnes|
 |---|---|---|---|---|
