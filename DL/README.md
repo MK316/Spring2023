@@ -24,7 +24,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |W04|March 27||||Assign#1|
 |W05|April 4|||||
 |W06|April 11||||
-|**W07**|Apr.18|**_Midterm (Individual task)_**||||
+|**W07**|April 18|**_Midterm (Individual task)_**||||
 |W08|April 25|||||
 |W09|May 2|||||
 |W10|May 9||||Assign#2|
