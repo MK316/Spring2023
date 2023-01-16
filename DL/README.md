@@ -16,7 +16,7 @@ By the end of this course, students will have a strong foundation in digital lit
 
 ## Course Schedule & Materials
 
-|Week|Date|Topic|Online material(NB)|References|Assignments|
+|Week|Date (Tue)|Topic|Online material(NB)|References|Assignments|
 |--|--|--|--|--|--|
 |W01|March 7 |Course overview, inclass group activity arrangements, etc. |Colab, github | |
 |W02|March 14|Coding Basics: Colab, Github repository, Python basics||||
