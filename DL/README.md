@@ -18,18 +18,18 @@ By the end of this course, students will have a strong foundation in digital lit
 
 |Week|Date|Topic|Online material(NB)|References|Assignments|
 |--|--|--|--|--|--|
-|W01|3/7 |Course overview, inclass group activity arrangements, etc. |Colab, github | |
-|W02||Coding Basics: Colab, Github repository, Python basics||||
-|W03||||||
-|W04|||||Assign#1|
-|W05||||||
-|W06|||||
-|**W07**||**_Midterm (Individual task)_**||||
-|W08||||||
-|W09||||||
-|W10|||||Assign#2|
-|W11||||||
-|W12||||||
-|W13||||||
-|**W14**||Project submission||||
-|**W15**||Final project (group) presentation||||
+|W01|Mar.7 |Course overview, inclass group activity arrangements, etc. |Colab, github | |
+|W02|Mar.14|Coding Basics: Colab, Github repository, Python basics||||
+|W03|Mar.21|||||
+|W04|Mar.27||||Assign#1|
+|W05|Apr.4|||||
+|W06|Apr.11||||
+|**W07**|Apr.18|**_Midterm (Individual task)_**||||
+|W08|Apr.25|||||
+|W09|May 2|||||
+|W10|May 9||||Assign#2|
+|W11|May 16|||||
+|W12|May 23|||||
+|W13|May 30|||||
+|**W14**|Jun. 13|Project submission||||
+|**W15**|Jun. 20|Final project (group) presentation||||
