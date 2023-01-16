@@ -1,6 +1,6 @@
 # 🌱 Digital Literacy and English Education (Spring 2023)
 
-: Undergraduate course (2 Credits)
+: Undergraduate course (2 Credits), 4-6pm Tuesdays.
 
 ## Course Overview
 
