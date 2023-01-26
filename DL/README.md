@@ -2,7 +2,7 @@
 
 : Undergraduate course (2 Credits), 4-6pm Tuesdays.
 
-## Course Overview
+## 🌀 Course Overview
 
 This undergraduate course aims to introduce students to the concept of digital literacy and its importance as a future English teacher. Digital literacy skills are increasingly crucial for language teachers in the 21st century. Here are some reasons why:
 
@@ -14,7 +14,7 @@ Thus, the ability to use digital tools and platforms is essential for language t
 
 By the end of this course, students will have a strong foundation in digital literacy and be well-prepared to utilize digital tools and technologies to enhance their teaching practice and facilitate the language learning of their students.
 
-## Course Schedule & Materials
+## 🌀 Course Schedule & Materials
 
 |Week|Date (Tue)|Topic| Keywords | Github file(s)|Assignments|
 |--|:--:|:--:|:--:|:--:|:--:|
@@ -34,7 +34,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |**W14**|June 13|Project submission||||
 |**W15**|June 20|Final project (group) presentation||||
 
-## Reading list
+## 🌀 Reading list
 
 |Reading|Full Reference|File link|
 |--|--|--|
