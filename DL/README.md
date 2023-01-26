@@ -33,3 +33,12 @@ By the end of this course, students will have a strong foundation in digital lit
 |W13|May 30|||||
 |**W14**|June 13|Project submission||||
 |**W15**|June 20|Final project (group) presentation||||
+
+Reading list
+
+|Reading|Full Reference|pdf|
+|--|--|--|
+|Hafner et al. (2015)|* Hafner, C. A., Chik, A., & Jones, R. H. (2015). Digital literacies and
+language learning. Language Learning & Technology, 19(3), 1–7. |[pdf](http://llt.msu.edu/issues/october2015/commentary.pdf)|
+|||  
+
