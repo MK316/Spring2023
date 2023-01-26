@@ -36,7 +36,7 @@ By the end of this course, students will have a strong foundation in digital lit
 
 Reading list
 
-|Reading|Full Reference|pdf|
+|Reading|Full Reference|File link|
 |--|--|--|
 |Hafner et al. (2015)|* Hafner, C. A., Chik, A., & Jones, R. H. (2015). Digital literacies and language learning. Language Learning & Technology, 19(3), 1–7. |[pdf](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)|
 |||  
