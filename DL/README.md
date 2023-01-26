@@ -21,13 +21,13 @@ By the end of this course, students will have a strong foundation in digital lit
 |W01|March 7 |Course overview: grouping, Q&As |Colab, github, Markdown | DLW01| |  
 |W02|March 14|Coding Basics|Colab, Github repository, Python| DLW02||
 |W03|March 21|||||
-|W04|March 27||||TBA(Assign#1)|
+|W04|March 27||||TBA(HW#1)|
 |W05|April 4|||||
 |W06|April 11||||
 |**W07**|April 18|**_Midterm (Individual task)_**||||
 |W08|April 25|||||
 |W09|May 2|||||
-|W10|May 9||||TBA(Assign#2)|
+|W10|May 9||||TBA(HW#2)|
 |W11|May 16|||||
 |W12|May 23|||||
 |W13|May 30|||||
