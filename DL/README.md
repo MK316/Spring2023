@@ -38,6 +38,6 @@ Reading list
 
 |Reading|Full Reference|pdf|
 |--|--|--|
-|Hafner et al. (2015)|* Hafner, C. A., Chik, A., & Jones, R. H. (2015). Digital literacies and language learning. Language Learning & Technology, 19(3), 1–7. |[pdf](http://llt.msu.edu/issues/october2015/commentary.pdf)|
+|Hafner et al. (2015)|* Hafner, C. A., Chik, A., & Jones, R. H. (2015). Digital literacies and language learning. Language Learning & Technology, 19(3), 1–7. |[pdf](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)|
 |||  
 
