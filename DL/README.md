@@ -34,7 +34,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |**W14**|June 13|Project submission||||
 |**W15**|June 20|Final project (group) presentation||||
 
-Reading list
+## Reading list
 
 |Reading|Full Reference|File link|
 |--|--|--|
