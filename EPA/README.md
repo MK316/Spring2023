@@ -9,9 +9,9 @@ This course will explore the assessment of English pronunciation in second langu
 
 |Week|Date|Topic|Class material|Notebook|Assignments|
 |--|:--:|--|--|--|--|
-|W01|Mar. 8|Course overview, Setting up basic tools, etc.|Reading01[^1]|[NB01]|Todo[^2]|
-|W02|Mar. 13| Exploration of tools.||||
-|W03|Mar. 15| | ||
+|W01|Mar. 8|Course overview, Setting up basic tools, introduction.|Reading01[^1]|[NB01]|Todo[^2]|
+|W02|Mar. 13|Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness ||||
+|W03|Mar. 15|Diagnoistic assessments: speech recordings of L2. | ||
 |W04|Mar. 22| | ||
 |W05|Mar. 29| | ||
 |W06|Apr. 5| | ||
