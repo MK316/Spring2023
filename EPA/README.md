@@ -15,14 +15,14 @@ This course will explore the assessment of English pronunciation in second langu
 |W04|Mar. 22|What to assess? | ||
 |W05|Mar. 29|What teachers need to know to assess learners' pronunciation? **Phonetic knowledge** | ||
 |W06|Apr. 5|What teachers need to know to assess learners' pronunciation? **Phonological knowledge** | ||
-|W07|Mar. 12|Pronunciation Instruction (PI) | ||
-|W08|Mar. 19|Midterm | ||
-|W09|Mar. 26| | ||
-|W010|May. 3| | ||
-|W011|May. 10| | ||
-|W012|May. 17| | ||
-|W013|May. 24| | ||
-|W014|May. 31| | ||
+|W07|Apr. 12|Pronunciation Instruction (PI) | ||
+|W08|Apr. 19|Midterm | ||
+|W09|Apr. 26| | ||
+|W010|May 3| | ||
+|W011|May 10| | ||
+|W012|May 17| | ||
+|W013|May 24| | ||
+|W014|May 31| | ||
 |W015|Jun. 7|Final project | ||
 
 
