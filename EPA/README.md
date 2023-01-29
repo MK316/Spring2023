@@ -9,9 +9,9 @@ This course will explore the assessment of English pronunciation in second langu
 
 |Week|Date|Topic|Readings/tools|Notebook|Assignments|
 |--|:--:|--|--|--|--|
-|W01|Mar. 8|Course overview, Setting up basic tools, introduction.|Syllabus|[NB01]|Todo[^2]|
-|W02|Mar. 13|Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness |Reading01[^1], [Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)|||
-|W03|Mar. 15|Diagnoistic assessments: speech recordings of L2. | ||
+|W01|Mar. 8|Course overview, Setting up basic tools, introduction.|Syllabus|[NB01]|Todo[^1]|
+|W02|Mar. 13|Teaching Pronunciation intro |Reading01[^2], [Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)|||
+|W03|Mar. 15|1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness; 2) Diagnoistic assessments: speech recordings of L2. |Reading02[^3] ||
 |W04|Mar. 22|What teachers need to know to assess learners' pronunciation? Phonetic knowledge | ||
 |W05|Mar. 29|What teachers need to know to assess learners' pronunciation? Phonological knowledge | ||
 |W06|Apr. 5| | ||
@@ -27,5 +27,7 @@ This course will explore the assessment of English pronunciation in second langu
 
 
 
-[^1]: Introductory article (TBA)
-[^2]: (1) Open a Github account (2) Create a repository and name it as "EPAS2023" (3) Send me your account name via email (mirankim@gmail.com) by Mar.11(Sat). (e.g., github.com/MK316)
+
+[^1]: (1) Open a Github account (2) Create a repository and name it as "EPAS2023" (3) Send me your account name via email (mirankim@gmail.com) by Mar.11(Sat). (e.g., github.com/MK316)
+[^2] Ch.1 Introduction to teaching pronunciation, from Beyond Repeat After Me: Teaching Pronunciation to English Learners (by Marla Tritch Yoshida, 2016) - printed handout.
+[^3] TBA
