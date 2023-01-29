@@ -8,9 +8,21 @@ This course will explore the assessment of English pronunciation in second langu
 
 |Week|Date|Topic|Class material|Notebook|Assignments|
 |--|--|--|--|--|--|
-|W01a|Mar.8|Course overview, Setting up basic tools, etc.|Reading01[^1]|[NB01]|Assign01[^2]|
-|W01b|Mar.13| Exploration of tools.|Reading01|Assign01||
-|W02a|Mar.15| | ||
+|W01|Mar.8|Course overview, Setting up basic tools, etc.|Reading01[^1]|[NB01]|Todo[^2]|
+|W02|Mar.13| Exploration of tools.||||
+|W03|Mar.15| | ||
+|W04|Mar.22| | ||
+|W05|Mar.29| | ||
+|W06|Apr.5| | ||
+|W07|Mar.12| | ||
+|W08|Mar.19| | ||
+|W09|Mar.26| | ||
+|W010|May.3| | ||
+|W011|May.10| | ||
+|W012|May.17| | ||
+|W013|May.24| | ||
+|W014|May.31| | ||
+|W015|Jun.7| | ||
 
 
 
