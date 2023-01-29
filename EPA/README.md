@@ -6,6 +6,7 @@ This course will explore the assessment of English pronunciation in second langu
 
 ## 🔳 Course Schedule and materials
 
++ Time: 7pm - 10 pm, every Wednesdays.  
 |Week|Date|Topic|Class material|Notebook|Assignments|
 |--|:--:|--|--|--|--|
 |W01|Mar. 8|Course overview, Setting up basic tools, etc.|Reading01[^1]|[NB01]|Todo[^2]|
