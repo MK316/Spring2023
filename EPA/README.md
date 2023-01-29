@@ -7,7 +7,7 @@ This course will explore the assessment of English pronunciation in second langu
 ## 🔳 Course Schedule (Wednesdays) and materials
 
 
-|Week|Date|Topic|Class material|Notebook|Assignments|
+|Week|Date|Topic|Readings/tools|Notebook|Assignments|
 |--|:--:|--|--|--|--|
 |W01|Mar. 8|Course overview, Setting up basic tools, introduction.|Reading01[^1]|[NB01]|Todo[^2]|
 |W02|Mar. 13|Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness |[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)|||
