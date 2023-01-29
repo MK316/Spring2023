@@ -10,20 +10,20 @@ This course will explore the assessment of English pronunciation in second langu
 |Wk#|Date|Topic|Readings|Coding/tools|Assignments|
 |--|:--:|--|--|--|--|
 |W01|3/8|Course overview; Introduction; Setting up basic tools|Syllabus|[NB01]|Todo[^1]|
-|W02|Mar. 13|Teaching Pronunciation intro |Reading01[^2]|[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
-|W03|Mar. 15|1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness; 2) Diagnoistic assessments: speech recordings of L2. |Reading02[^3] ||
+|W02|3/13|Teaching Pronunciation intro |Reading01[^2]|[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
+|W03|3/15|1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness; 2) Diagnoistic assessments: speech recordings of L2. |Reading02[^3] ||
 |W04|3/22|What to assess? | ||
 |W05|3/29|What teachers need to know to assess learners' pronunciation? **Phonetic knowledge** | ||
-|W06|Apr. 5|What teachers need to know to assess learners' pronunciation? **Phonological knowledge** | ||
-|W07|Apr. 12|Pronunciation Instruction (PI) | ||
-|W08|Apr. 19|Midterm | ||
-|W09|Apr. 26| | ||
-|W010|May 3| | ||
-|W011|May 10| | ||
-|W012|May 17| | ||
-|W013|May 24| | ||
-|W014|May 31| | ||
-|W015|Jun. 7|Final project | ||
+|W06|4/5|What teachers need to know to assess learners' pronunciation? **Phonological knowledge** | ||
+|W07|4/12|Pronunciation Instruction (PI) | ||
+|W08|4/19|Midterm | ||
+|W09|4/26| | ||
+|W010|5/3| | ||
+|W011|5/10| | ||
+|W012|5/17| | ||
+|W013|5/24| | ||
+|W014|5/31| | ||
+|W015|6/7|Final project | ||
 
 
 
