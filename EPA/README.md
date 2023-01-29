@@ -10,7 +10,7 @@ This course will explore the assessment of English pronunciation in second langu
 |Week|Date|Topic|Class material|Notebook|Assignments|
 |--|:--:|--|--|--|--|
 |W01|Mar. 8|Course overview, Setting up basic tools, introduction.|Reading01[^1]|[NB01]|Todo[^2]|
-|W02|Mar. 13|Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness |[Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)|||
+|W02|Mar. 13|Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness |[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)|||
 |W03|Mar. 15|Diagnoistic assessments: speech recordings of L2. | ||
 |W04|Mar. 22|What teachers need to know to assess learners' pronunciation? Phonetic knowledge | ||
 |W05|Mar. 29|What teachers need to know to assess learners' pronunciation? Phonological knowledge | ||
