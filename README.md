@@ -1,7 +1,7 @@
 # 🕒 Spring2023
 
-🎶[My class tools](https://github.com/MK316/classtools/blob/main/README.md)
----
+🎶 Goto [My class tools](https://github.com/MK316/classtools/blob/main/README.md)
+
 
 |Schedule|Subject (link)|Level|Credits|Course descriptions|Course material|
 |:---:|---|:---:|:---:|---|--|
