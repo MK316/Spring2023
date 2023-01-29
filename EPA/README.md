@@ -28,7 +28,7 @@ This course will explore the assessment of English pronunciation in second langu
 
 
 
-[^1]: (1) Open a Github account (2) Create a repository and name it as "EPAS2023" (3) Send me your account name via email (mirankim@gmail.com) by Mar.11(Sat). (e.g., github.com/MK316)
+[^1]: (1) Open a Github account (2) Create a repository and name it as "EPA_S2023" (3) Send me your account name via email (mirankim@gmail.com) by Mar.11(Sat). (e.g., github.com/MK316)
 [^2]: Ch.1 Introduction to teaching pronunciation, from Beyond Repeat After Me: Teaching Pronunciation to English Learners (by Marla Tritch Yoshida, 2016) - printed handout.
 [^3]: TBA
 [^4]: TBA
