@@ -15,14 +15,14 @@ This course will explore the assessment of English pronunciation in second langu
 |W05|Mar.29| | ||
 |W06|Apr.5| | ||
 |W07|Mar.12| | ||
-|W08|Mar.19| | ||
+|W08|Mar.19|Midterm | ||
 |W09|Mar.26| | ||
 |W010|May.3| | ||
 |W011|May.10| | ||
 |W012|May.17| | ||
 |W013|May.24| | ||
 |W014|May.31| | ||
-|W015|Jun.7| | ||
+|W015|Jun.7|Final project | ||
 
 
 
