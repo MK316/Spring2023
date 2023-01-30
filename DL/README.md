@@ -4,7 +4,7 @@
 
 ## 🌀 Course Overview
 
-This undergraduate course aims to introduce students to the concept of digital literacy and its importance as a future English teacher. Digital literacy skills are increasingly crucial for language teachers in the 21st century. Here are some reasons why:
+This undergraduate course aims to introduce students to the concept of digital literacy and its importance as a future language teacher. Digital literacy skills are increasingly crucial for language teachers in the 21st century and here are some reasons why:
 
 - Firstly, effective learning materials are often found online and require teachers to be able to use digital tools and platforms to access, evaluate, and utilize them.  
 - Secondly, AI technology is rapidly being integrated into language classes, and teachers need to be able to use these tools to facilitate learning and provide personalized feedback to students. 
