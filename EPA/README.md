@@ -23,7 +23,7 @@ Selected readings from:
 |W02|3/13|Essential terminology; nativeness and intelligibility principles |Reading01[^1]|[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
 |W03|3/15|1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness; 2) Diagnoistic assessments: speech recordings of L2. |Reading02[^2] ||
 |W04|3/22|What do raters need in a pronunciation scale? |Reading03[^3] ||
-|W05|3/29|A pedagogical perspective on L2 phonetic acquisition **Phonetic knowledge** |Reading04[^4] ||
+|W05|3/29|A pedagogical perspective on L2 phonetic acquisition: **Phonetic knowledge** |Reading04[^4] ||
 |W06|4/5|Pronunciation errors - what counts as an error? |Reading05[^5] ||
 |W07|4/12|Pronunciation Instruction (PI) | ||
 |W08|4/19|Midterm | ||
