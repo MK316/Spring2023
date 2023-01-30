@@ -19,11 +19,11 @@ By the end of this course, students will have a strong foundation in digital lit
 |Week|Date (Tue)|Topic| Keywords | Github file(s)|Assignments|
 |--|:--:|:--:|:--:|:--:|:--:|
 |W01|March 7 |Course overview: grouping, Q&As |Colab, github, Markdown | DLW01| |  
-|W02|March 14|Digital Literacy; Coding Basics|Colab, Github repository, Python| DLW02|[Reading 01](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)[^1]|
-|W03|March 21|||||
-|W04|March 27||||TBA(HW#1)|
-|W05|April 4|||||
-|W06|April 11||||
+|W02|March 14|Digital Literacy; Coding Basics 1|Colab, Github repository, Python| DLW02|[Reading 01](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)[^1]|
+|W03|March 21|Coding Basics 2||||
+|W04|March 27|Coding Basics 3|||TBA(HW#1)|
+|W05|April 4|Coding Basics 4||||
+|W06|April 11|Coding Basics 5|||
 |**W07**|April 18|**_Midterm (Individual task)_**||||
 |W08|April 25|||||
 |W09|May 2|||||
