@@ -6,6 +6,7 @@ This course will explore the assessment of English pronunciation in second langu
 
 ## 🔳 Course Schedule (Wednesdays) and materials
 
+[References](epa_ref.md)   
 
 |Wk#|Date|Topic|Readings|Coding/tools|Assignments|
 |--|:--:|--|--|--|--|
