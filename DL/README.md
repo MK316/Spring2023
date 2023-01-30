@@ -25,12 +25,12 @@ By the end of this course, students will have a strong foundation in digital lit
 |W05|April 4|Coding Basics 4||||
 |W06|April 11|Coding Basics 5|||
 |**W07**|April 18|**_Midterm (Individual task)_**||||
-|W08|April 25|Python coding and NLP (Natural Language Processing)||||
-|W09|May 2|Python coding and Spoken language||||
-|W10|May 9|Web Interface: Gradio|||TBA(HW#2)|
-|W11|May 16|||||
-|W12|May 23|||||
-|W13|May 30|||||
+|W08|April 25|Python coding and NLP (Natural Language Processing) 1||||
+|W09|May 2|Python coding and NLP (Natural Language Processing) 2||||
+|W10|May 9|Python coding and Spoken language|||TBA(HW#2)|
+|W11|May 16|Web Interface: Gradio||||
+|W12|May 23|Project discussion||||
+|W13|May 30|TBA||||
 |**W14**|June 13|Project submission||||
 |**W15**|June 20|Final project (group) presentation||||
 
