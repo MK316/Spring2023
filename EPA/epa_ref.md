@@ -17,7 +17,7 @@ Table of contents
 
 ## Books 
 
-
++ Derwing, T.M. and Munro, M.J. (2015) _Pronunciation Fundamentals: Evidence-Based Perspectives for L2 Teaching and Research._ Amsterdam: John Benjamins.
 ## Terminologies
 
 |Terms|Descriptions|ref|
