@@ -19,7 +19,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |Week|Date (Tue)|Topic| Keywords | Github file(s)|Assignments|
 |--|:--:|:--:|:--:|:--:|:--:|
 |W01|March 7 |Course overview: grouping, Q&As |Colab, github, Markdown | DLW01| |  
-|W02|March 14|Coding Basics|Colab, Github repository, Python| DLW02||
+|W02|March 14|Coding Basics|Colab, Github repository, Python| DLW02|[reading](https://lincs.ed.gov/sites/default/files/ELL_Digital_Literacy_508.pdf)[^1]|
 |W03|March 21|||||
 |W04|March 27||||TBA(HW#1)|
 |W05|April 4|||||
@@ -38,7 +38,8 @@ By the end of this course, students will have a strong foundation in digital lit
 
 |Reading|Full Reference|File link|
 |--|--|--|
-|Hafner et al. (2015)|Digital literacies and language learning[^1] |[pdf](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)|
+|Hafner et al. (2015)|Digital literacies and language learning[^2] |[pdf](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)|
 |||  
 
-[^1]: Hafner, C. A., Chik, A., & Jones, R. H. (2015). Digital literacies and language learning. _Language Learning & Technology, 19(3),_ 1–7.
+[^1]: https://lincs.ed.gov/
+[^2]: Hafner, C. A., Chik, A., & Jones, R. H. (2015). Digital literacies and language learning. _Language Learning & Technology, 19(3),_ 1–7.
