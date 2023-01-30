@@ -1,10 +1,10 @@
 # 📕 Course syllabus: English Pronunciation Assessment (Spring 2023)
 Graduate Course (3 Credits)
 
-## 🔳 Course overview
+## 🍃 Course overview
 This course will explore the assessment of English pronunciation in second language learners. Topics will include techniques such as rating scales and diagnostic assessments, and how to evaluate the learner's pronunciation in terms of intelligibility, comprehensibility, and accentedness, taking into account factors such as the learner's age, proficiency level, and first language when setting goals and standards. In addition, we will explore the possibilities of using automated speech tools that can assist in teaching speaking skills both inside and outside the classroom.  We will consider the potential benefits and limitations of automated speech generation and recognition tools in pronunciation teaching. Feedback strategies, including verbal, written, and audio feedback, will also be discussed. By the end of the course, students will have a comprehensive understanding of the theories and methods used to assess pronunciation and how to apply them in a language learning context.
 
-## 🔳 Reading list
+## 🍃 Reading list
 
 Selected readings from:
 
@@ -14,7 +14,7 @@ Selected readings from:
 
 [More References](https://github.com/MK316/Spring2023/blob/main/EPA/epa_ref.md)   
 
-## 🔳 Course Schedule (Wednesdays) and materials
+## 🍃 Course Schedule (Wednesdays) and materials
 
 
 |Wk#|Date|Topic|Readings|Coding/tools|Assignments|
