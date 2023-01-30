@@ -18,19 +18,19 @@ By the end of this course, students will have a strong foundation in digital lit
 
 |Week|Date (Tue)|Topic| Keywords | Github file(s)|Assignments|
 |--|:--:|:--:|:--:|:--:|:--:|
-|W01|March 7 |Course overview: grouping, Q&As |Colab, github, Markdown | DLW01| |  
-|W02|March 14|Digital Literacy; Coding Basics 1|Colab, Github repository, Python| DLW02|[Reading 01](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)[^1]|
-|W03|March 21|Coding Basics 2||||
-|W04|March 27|Coding Basics 3|||TBA(HW#1)|
-|W05|April 4|Coding Basics 4||||
-|W06|April 11|Coding Basics 5|||
+|W01|March 7 |Course overview, Digital Age and Digital Literacy, grouping, Q&As |Colab, github, Markdown | DLW01| |  
+|W02|March 14|Digital Literacy and English language teaching; Coding Basics 1: variables, operators, data types|Colab, Github repository, Python| DLW02|[Reading 01](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)[^1]|
+|W03|March 21|Coding Basics 2: list, dictionary, dataframe, file handling||||
+|W04|March 27|Coding Basics 3: modules, input-putput|||TBA(HW#1)|
+|W05|April 4|Python coding and NLP (Natural Language Processing) 1 ||||
+|W06|April 11|Python coding and NLP (Natural Language Processing) 2|||
 |**W07**|April 18|**_Midterm (Individual task)_**||||
-|W08|April 25|Python coding and NLP (Natural Language Processing) 1||||
-|W09|May 2|Python coding and NLP (Natural Language Processing) 2||||
-|W10|May 9|Python coding and Spoken language|||TBA(HW#2)|
-|W11|May 16|Web Interface: Gradio||||
-|W12|May 23|Project discussion||||
-|W13|May 30|TBA||||
+|W08|April 25|NLP and language learning material 1||||
+|W09|May 2|NLP and language learning material 2||||
+|W10|May 9|Python coding and Spoken language 1|||TBA(HW#2)|
+|W11|May 16|Python coding and Spoken language 2||||
+|W12|May 23|Web Interface: Gradio||||
+|W13|May 30|Open APIs||||
 |**W14**|June 13|Project submission||||
 |**W15**|June 20|Final project (group) presentation||||
 
