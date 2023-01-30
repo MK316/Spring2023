@@ -27,12 +27,12 @@ Selected readings from:
 |W06|4/5|Pronunciation errors - what counts as an error? |Reading05[^5] ||
 |W07|4/12|Pronunciation Instruction (PI) | Reading06[^6]||
 |W08|4/19|Midterm | ||
-|W09|4/26| | ||
-|W010|5/3| | ||
-|W011|5/10| | ||
-|W012|5/17| | ||
-|W013|5/24| | ||
-|W014|5/31| | ||
+|W09|4/26|Implementing technology in classroom pedagogy 1 |Reading06[^7] ||
+|W010|5/3| Implementing technology in classroom pedagogy 2| ||
+|W011|5/10|Implementing technology in classroom pedagogy 3 | ||
+|W012|5/17| Accented speech | Reading07[^8] ||
+|W013|5/24| Future directionns|Reading08[^9] ||
+|W014|5/31| Project discussion (TBA) | ||
 |W015|6/7|Final project | ||
 
 
@@ -45,4 +45,7 @@ Selected readings from:
 [^4]: Reading 04: PF chapter 3 (Ch.3 A pedagogical perspective on L2 phonetic acquisition)
 [^5]: Reading 05: PF chapter 4 (Ch.4 Pronunciation errors and error gravity)
 [^6]: Reading 06: PF chapter 5 (Ch.5 Pronunciation instruction research)
+[^7]: Reading 07: Pf chapter 7 (Ch.7 Technology in L2 pronunciation instruction)
+[^8]: Reading 08: PF chapter 8 (Ch.8 Social aspects of accent)
+[^9]: Reading 09: PF chapter 10 (Ch.10 Future directions)
 
