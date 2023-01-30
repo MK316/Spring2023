@@ -8,9 +8,9 @@ This course will explore the assessment of English pronunciation in second langu
 
 Selected readings from:
 
-1. Derwing, T.M. and Munro, M.J. (2015) Pronunciation Fundamentals: Evidence-Based Perspectives for L2 Teaching and Research. Amsterdam: John Benjamins. [info]
-2. Yoshida, Marla Tritch (2016) Beyond Repeat After Me: Teaching Pronunciation to English Learners. Tesolpress. [info]
-3. Isaacs, Talia & Trofimovich, Pavel (2016) Second Language Pronunciation Assessment: Interdisciplinary Perspectives. Multilingual Matters. 
+1. PF - Derwing, T.M. and Munro, M.J. (2015) Pronunciation Fundamentals: Evidence-Based Perspectives for L2 Teaching and Research. Amsterdam: John Benjamins. [info]
+2. BRAM - Yoshida, Marla Tritch (2016) Beyond Repeat After Me: Teaching Pronunciation to English Learners. Tesolpress. [info]
+3. sLPA - Isaacs, Talia & Trofimovich, Pavel (2016) Second Language Pronunciation Assessment: Interdisciplinary Perspectives. Multilingual Matters. 
 
 [References](https://github.com/MK316/Spring2023/blob/main/EPA/epa_ref.md)   
 
@@ -19,12 +19,12 @@ Selected readings from:
 
 |Wk#|Date|Topic|Readings|Coding/tools|Assignments|
 |--|:--:|--|--|--|--|
-|W01|3/8|Course overview; Introduction; Setting up basic tools|Syllabus|[NB01]|Todo[^1]|
-|W02|3/13|Teaching Pronunciation intro |Reading01[^2]|[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
-|W03|3/15|1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness; 2) Diagnoistic assessments: speech recordings of L2. |Reading02[^3] ||
-|W04|3/22|What to assess? | ||
-|W05|3/29|What teachers need to know to assess learners' pronunciation? **Phonetic knowledge** | ||
-|W06|4/5|What teachers need to know to assess learners' pronunciation? **Phonological knowledge** | ||
+|W01|3/8|Course overview; Setting up basic tools; Introduction|Syllabus|[NB01]|Todo[^0]|
+|W02|3/13|Essential terminology; nativeness and intelligibility principles |Reading01[^1]|[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
+|W03|3/15|1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness; 2) Diagnoistic assessments: speech recordings of L2. |Reading02[^2] ||
+|W04|3/22|What do raters need in a pronunciation scale? |Reading03[^3] ||
+|W05|3/29|A pedagogical perspective on L2 phonetic acquisition **Phonetic knowledge** |Reading04[^4] ||
+|W06|4/5|Pronunciation errors - what counts as an error? |Reading05[^5] ||
 |W07|4/12|Pronunciation Instruction (PI) | ||
 |W08|4/19|Midterm | ||
 |W09|4/26| | ||
@@ -38,7 +38,10 @@ Selected readings from:
 
 
 
-[^1]: (1) Open a Github account (2) Create a repository and name it as "EPA_S2023" (3) Send me your account name via email (mk3one6@gmail.com) by Mar.11(Sat). (e.g., github.com/MK316)
-[^2]: Ch.1 Introduction to teaching pronunciation, from Beyond Repeat After Me: Teaching Pronunciation to English Learners (by Marla Tritch Yoshida, 2016) - printed handout.
-[^3]: TBA
-[^4]: TBA
+[^0]: (1) Open a Github account (2) Create a repository and name it as "EPA_S2023" (3) Send me your account name via email (mk3one6@gmail.com) by Mar.11(Sat). (e.g., github.com/MK316)
+[^1]: Reading 01: PF ch01 (Ch.1 Key concepts)
+[^2]: Reading 02: BRAM ch01 (Ch.1 Introduction to teaching pronunciation, from Beyond Repeat After Me: Teaching Pronunciation to English Learners)
+[^3]: Reading 03: SLPA ch02 (Ch.2 What do raters need in a pronunciation scale? The user's view (by Luke Harding))
+[^4]: Reading 04: PF ch03 (Ch.3 A pedagogical perspective on L2 phonetic acquisition)
+[^5]: Reading 05: PF ch04 (ch.4 Pronunciation errors and error gravity)
+
