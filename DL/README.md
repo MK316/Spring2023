@@ -23,7 +23,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |W03|March 21|Coding Basics 2: list, dictionary, dataframe, file handling||||
 |W04|March 27|Coding Basics 3: modules, input-putput|||TBA(HW#1)|
 |W05|April 4|Python coding and NLP (Natural Language Processing) 1 ||||
-|W06|April 11|Python coding and NLP (Natural Language Processing) 2|||
+|W06|April 11|Python coding and NLP 2|||
 |**W07**|April 18|**_Midterm (Individual task)_**||||
 |W08|April 25|NLP and language learning material 1||||
 |W09|May 2|NLP and language learning material 2||||
