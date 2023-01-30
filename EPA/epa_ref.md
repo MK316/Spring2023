@@ -8,3 +8,9 @@
 
 
 **Books:**  
+
+**Terminologies**  
+
+|Terms|Descriptions|ref|
+|--|--|--|
+|CAPT| Computer Assisted Pronunciation Training||
