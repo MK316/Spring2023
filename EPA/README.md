@@ -25,7 +25,7 @@ Selected readings from:
 |W04|3/22|What do raters need in a pronunciation scale? |Reading03[^3] ||
 |W05|3/29|A pedagogical perspective on L2 phonetic acquisition: **Phonetic knowledge** |Reading04[^4] ||
 |W06|4/5|Pronunciation errors - what counts as an error? |Reading05[^5] ||
-|W07|4/12|Pronunciation Instruction (PI) | ||
+|W07|4/12|Pronunciation Instruction (PI) | Reading06[^6]||
 |W08|4/19|Midterm | ||
 |W09|4/26| | ||
 |W010|5/3| | ||
@@ -39,9 +39,10 @@ Selected readings from:
 
 
 [^0]: (1) Open a Github account (2) Create a repository and name it as "EPA_S2023" (3) Send me your account name via email (mk3one6@gmail.com) by Mar.11(Sat). (e.g., github.com/MK316)
-[^1]: Reading 01: PF ch01 (Ch.1 Key concepts)
-[^2]: Reading 02: BRAM ch01 (Ch.1 Introduction to teaching pronunciation, from Beyond Repeat After Me: Teaching Pronunciation to English Learners)
-[^3]: Reading 03: SLPA ch02 (Ch.2 What do raters need in a pronunciation scale? The user's view (by Luke Harding))
-[^4]: Reading 04: PF ch03 (Ch.3 A pedagogical perspective on L2 phonetic acquisition)
-[^5]: Reading 05: PF ch04 (ch.4 Pronunciation errors and error gravity)
+[^1]: Reading 01: PF chapter 1 (Ch.1 Key concepts)
+[^2]: Reading 02: BRAM chapter 1 (Ch.1 Introduction to teaching pronunciation, from Beyond Repeat After Me: Teaching Pronunciation to English Learners)
+[^3]: Reading 03: SLPA chapter 2 (Ch.2 What do raters need in a pronunciation scale? The user's view (by Luke Harding))
+[^4]: Reading 04: PF chapter 3 (Ch.3 A pedagogical perspective on L2 phonetic acquisition)
+[^5]: Reading 05: PF chapter 4 (Ch.4 Pronunciation errors and error gravity)
+[^6]: Reading 06: PF chapter 5 (Ch.5 Pronunciation instruction research)
 
