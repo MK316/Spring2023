@@ -1,4 +1,4 @@
-# 📕 English Pronunciation Assessment (Spring 2023)
+# 📕 Course syllabus: English Pronunciation Assessment (Spring 2023)
 Graduate Course (3 Credits)
 
 ## 🔳 Course overview
@@ -10,7 +10,7 @@ Selected readings from:
 
 1. PF - Derwing, T.M. and Munro, M.J. (2015) Pronunciation Fundamentals: Evidence-Based Perspectives for L2 Teaching and Research. Amsterdam: John Benjamins. [info]
 2. BRAM - Yoshida, Marla Tritch (2016) Beyond Repeat After Me: Teaching Pronunciation to English Learners. Tesolpress. [info]
-3. sLPA - Isaacs, Talia & Trofimovich, Pavel (2016) Second Language Pronunciation Assessment: Interdisciplinary Perspectives. Multilingual Matters. 
+3. SLPA - Isaacs, Talia & Trofimovich, Pavel (2016) Second Language Pronunciation Assessment: Interdisciplinary Perspectives. Multilingual Matters. 
 
 [References](https://github.com/MK316/Spring2023/blob/main/EPA/epa_ref.md)   
 
