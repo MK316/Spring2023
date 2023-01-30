@@ -12,7 +12,7 @@ Selected readings from:
 2. BRAM - Yoshida, Marla Tritch (2016) Beyond Repeat After Me: Teaching Pronunciation to English Learners. Tesolpress. [info]
 3. SLPA - Isaacs, Talia & Trofimovich, Pavel (2016) Second Language Pronunciation Assessment: Interdisciplinary Perspectives. Multilingual Matters. 
 
-[References](https://github.com/MK316/Spring2023/blob/main/EPA/epa_ref.md)   
+[More References](https://github.com/MK316/Spring2023/blob/main/EPA/epa_ref.md)   
 
 ## 🔳 Course Schedule (Wednesdays) and materials
 
