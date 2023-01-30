@@ -2,10 +2,10 @@
 
 Table of contents
 
-**[Journals](#journals)**
-**[Articles](#articles)**
-**[Books](#books)**
-**[Terminologies](terminologies)**
+**[Journals](#journals)**  
+**[Articles](#articles)**  
+**[Books](#books)**  
+**[Terminologies](terminologies)**  
 
 ## Journals
 
