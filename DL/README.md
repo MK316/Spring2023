@@ -27,7 +27,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |**W07**|April 18|**_Midterm (Individual task)_**||||
 |W08|April 25|NLP and language learning material 1|||Demo4|
 |W09|May 2|NLP and language learning material 2|||Demo5|
-|W10|May 9|Python coding and Spoken language tool 1||||
+|W10|May 9|Python coding and Spoken language tool 1||||(Demo6)
 |W11|May 16|Python coding and Spoken language tool 2||||
 |W12|May 23|Web Interface: Gradio||||
 |W13|May 30|Open APIs||||
