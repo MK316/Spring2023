@@ -20,7 +20,7 @@ Table of contents
 
 + Derwing, T.M. and Munro, M.J. (2015) _Pronunciation Fundamentals: Evidence-Based Perspectives for L2 Teaching and Research._ Amsterdam: John Benjamins.
 + Yoshida, Marla Tritch (2016) _Beyond Repeat After Me: Teaching Pronunciation to English Learners._ Tesolpress.
-+ Isaacs, Talia & Trofimovich, Pavel (2016) _Second Language Pronunciation Assessment: Interdisciplinary Perspectives._ Multilingual Matters. [info](https://www.multilingual-matters.com/page/detail/Second-Language-Pronunciation-Assessment/?k=9781783096831)
++ Isaacs, Talia & Trofimovich, Pavel (2016) _Second Language Pronunciation Assessment: Interdisciplinary Perspectives._ Multilingual Matters. [[info]](https://www.multilingual-matters.com/page/detail/Second-Language-Pronunciation-Assessment/?k=9781783096831)
 
 
 ## Terminologies
