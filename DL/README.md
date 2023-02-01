@@ -21,17 +21,17 @@ By the end of this course, students will have a strong foundation in digital lit
 |W01|March 7 | Introduction to Digital Literacy: Overview of digital literacy and its importance in English education <br> The digital landscape and technological developments <br> Overview of the course and expectations |Colab, github, Markdown | DLW01| |  
 |W02|March 14|Basic Digital Skills 1: Understanding digital devices and operating systems|variables, operators, data types| DLW02|[Reading 01](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)[^1]|
 |W03|March 21|Basic Digital Skills 2: Introduction to common software and applications|list, dictionary, dataframe, file handling|DLW03|Demo1|
-|W04|March 27|Basic Digital Skills 3: Basic file management and organization|modules, input-putput||Demo2|
-|W05|April 4|Python coding and NLP (Natural Language Processing) 1 |||Demo3|
-|W06|April 11|Python coding and NLP 2|||
-|**W07**|April 18|**_Midterm (Individual task)_**||||
-|W08|April 25|NLP and language learning material 1|||Demo4|
-|W09|May 2|NLP and language learning material 2|||Demo5|
-|W10|May 9|Python coding and Spoken language tool 1|||(Demo6)|
-|W11|May 16|Python coding and Spoken language tool 2||||
+|W04|March 27|Digital Communication and Collaboration 1: <br> Social media and online communities <Br> Collaboration tools and virtual meetings|modules, input-putput||Demo2|
+|W05|April 4|Digital Communication and Collaboration 2: <br> Social media and online communities <br> Collaboration tools and virtual meetings |||Demo3|
+|W06|April 11|Digital Content Creation 1: <br> Word processing and text editing <br> Presentation software <br> Digital images and graphics|||
+|W07|April 18|Digital Content Creation 2: Word processing and text editing <br> Presentation software <br> Digital images and graphics||||
+|**W08**|April 25|**_Midterm (Individual task)_**|||Demo4|
+|W09|May 2|Digital Research and Information Literacy 1: <br> Introduction to information literacy <br> Search engines and online research |||Demo5|
+|W10|May 9||Digital Research and Information Literacy 2: <br> Evaluating online sources and avoiding plagiarism: <br>|||(Demo6)|
+|W11|May 16|Digital Safety and Privacy: <br> Understanding online privacy and security <br> Protecting personal information online <br> Dealing with online harassment and cyberbullying||||
 |W12|May 23|Web Interface: Gradio||||
-|W13|May 30|Open APIs||||
-|**W14**|June 13|Project submission||||
+|W13|May 30|Integrating Technology in English Education 1: <br> Using technology to support language learning <br> Integrating technology in the English classroom||||
+|**W14**|June 13|Integrating Technology in English Education 2: <br> Evaluating the impact of technology on student learning||||
 |**W15**|June 20|Final project (group) presentation & evaluation||||
 
 ## 🌀 Reading list
