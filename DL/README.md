@@ -27,7 +27,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |W07|April 18|Digital Content Creation 2: Word processing and text editing <br> Presentation software <br> Digital images and graphics||||
 |**W08**|April 25|**_Midterm (Individual task)_**|||Demo4|
 |W09|May 2|Digital Research and Information Literacy 1: <br> Introduction to information literacy <br> Search engines and online research |||Demo5|
-|W10|May 9||Digital Research and Information Literacy 2: <br> Evaluating online sources and avoiding plagiarism: <br>|||(Demo6)|
+|W10|May 9|Digital Research and Information Literacy 2: <br> Evaluating online sources and avoiding plagiarism: <br>|||(Demo6)|
 |W11|May 16|Digital Safety and Privacy: <br> Understanding online privacy and security <br> Protecting personal information online <br> Dealing with online harassment and cyberbullying||||
 |W12|May 23|Web Interface: Gradio||||
 |W13|May 30|Integrating Technology in English Education 1: <br> Using technology to support language learning <br> Integrating technology in the English classroom||||
