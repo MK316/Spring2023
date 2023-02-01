@@ -19,9 +19,9 @@ By the end of this course, students will have a strong foundation in digital lit
 |Week|Date (Tue)|Topic| Keywords | Github file(s)|Activities|
 |--|:--:|:--:|:--:|:--:|:--:|
 |W01|March 7 |Course overview, Digital Age and Digital Literacy, grouping, Q&As |Colab, github, Markdown | DLW01| |  
-|W02|March 14|Digital Literacy and English language teaching; Coding Basics 1: variables, operators, data types|Colab, Github repository, Python| DLW02|[Reading 01](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)[^1]|
-|W03|March 21|Coding Basics 2: list, dictionary, dataframe, file handling|||Demo1|
-|W04|March 27|Coding Basics 3: modules, input-putput|||Demo2|
+|W02|March 14|Digital Literacy and English language teaching; Coding Basics 1|variables, operators, data types| DLW02|[Reading 01](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)[^1]|
+|W03|March 21|Coding Basics 2|list, dictionary, dataframe, file handling|DLW03|Demo1|
+|W04|March 27|Coding Basics 3|modules, input-putput||Demo2|
 |W05|April 4|Python coding and NLP (Natural Language Processing) 1 |||Demo3|
 |W06|April 11|Python coding and NLP 2|||
 |**W07**|April 18|**_Midterm (Individual task)_**||||
