@@ -18,10 +18,9 @@ By the end of this course, students will have a strong foundation in digital lit
 
 |Week|Date (Tue)|Topic| Keywords | Github file(s)|Activities|
 |--|:--:|:--:|:--:|:--:|:--:|
-|W01|March 7 | Introduction to Digital Literacy: Overview of digital literacy and its importance in English education
-The digital landscape and technological developments <br> 
-Overview of the course and expectations |Colab, github, Markdown | DLW01| |  
-|W02|March 14|Digital Literacy and English language teaching; Coding Basics 1|variables, operators, data types| DLW02|[Reading 01](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)[^1]|
+|W01|March 7 | Introduction to Digital Literacy: Overview of digital literacy and its importance in English education <br> The digital landscape and technological developments <br> Overview of the course and expectations |Colab, github, Markdown | DLW01| |  
+|W02|March 14|Basic Digital Skills <br> Understanding digital devices and operating systems
+Introduction to common software and applications <br> Basic file management and organization|variables, operators, data types| DLW02|[Reading 01](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)[^1]|
 |W03|March 21|Coding Basics 2|list, dictionary, dataframe, file handling|DLW03|Demo1|
 |W04|March 27|Coding Basics 3|modules, input-putput||Demo2|
 |W05|April 4|Python coding and NLP (Natural Language Processing) 1 |||Demo3|
