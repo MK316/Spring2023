@@ -10,9 +10,9 @@ This course has been developed to aid students in enhancing their English langua
 
 |Weeks|Date|Topics|Course material|Activities|
 |:--:|--|--|--|--|
-|W01|Mar. 2, 7||||
-|W02|Mar. 9, 14||||
-|W03|||||
+|W01|Mar. 2,7||||
+|W02|Mar. 9,14||||
+|W03|Mar. 16,21||||
 |W04|||||
 |W05|||||
 |W06|||||
