@@ -23,7 +23,9 @@ This course has been developed to aid students in enhancing their English langua
 |W10|5/11, 16||||
 |W11|5/18, 23||||
 |W12|5/25, 30||||
-|W13|6/1, (6)||||
+|W13|6/1, (6)[^1]||||
 |W14|6/8, 13||||
 |W15|6/15, 20||||
 |W16|6/22||||
+
+[^1]: Holiday
