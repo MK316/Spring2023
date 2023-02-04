@@ -8,21 +8,22 @@ This course has been developed to aid students in enhancing their English langua
 
 ## Course Schedule and online material
 
-|Weeks|Date|Topics|Course material|Activities|
+|Weeks|Tu(1), Thu(2)|Topics|Course material|Activities|
 |:--:|--|--|--|--|
-|W01|Mar. 2,7||||
-|W02|Mar. 9,14||||
-|W03|Mar. 16,21||||
-|W04|||||
-|W05|||||
-|W06|||||
-|W06|||||
-|W07|||||
-|W08|||||
-|W09|||||
-|W10|||||
-|W11|||||
-|W12|||||
-|W13|||||
-|W14|||||
-|W15|||||
+|W01|3/2, 7|Course overview and introduction|[Engpro_W01](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_W01.ipynb)||
+|W02|3/9, 14||[Engpro_W02](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_W02.ipynb)||
+|W03|3/16, 21||[Engpro_W03](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_W03.ipynb)||
+|W04|3/23, 28||||
+|W05|3/30, 4/4||||
+|W06|4/6, 11||||
+|W06|4/13, 18||||
+|W07|4/20, 25||||
+|W08|4/27, 5/2||||
+|W09|5/4, 9||||
+|W10|5/11, 16||||
+|W11|5/18, 23||||
+|W12|5/25, 30||||
+|W13|6/1, (6)||||
+|W14||6/8, 13|||
+|W15||6/15, 20|||
+|W16||6/22|||
