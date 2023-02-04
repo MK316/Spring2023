@@ -28,4 +28,4 @@ This course has been developed to aid students in enhancing their English langua
 |W15|6/15, 20||||
 |W16|6/22||||
 
-[^1]: Holiday
+[^1]: Holiday (no class)
