@@ -1,4 +1,4 @@
-# 📕 Course syllabus: English Pronunciation Assessment (Spring 2023)
+# 📕 English Pronunciation Assessment (Spring 2023)
 Graduate Course (3 Credits)
 
 ## 🍃 Course overview
