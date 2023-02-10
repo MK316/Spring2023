@@ -17,10 +17,14 @@
 
 **Q2. For English learners, what would they want to know about how to improve their English pronunciation?**  
 
-+ which sounds (vowels and consonants) you're mispronouncing
-+ overall feedback on my pronunciation (or speaking skills) 
-+ how to improve my pronunciation (or speaking skills)
-+ how much my speech is intelligible to others (or natives)
-+ what should be my priorities to improve my speaking skills  
++ Identifying mispronounced sounds: To determine which sounds you're mispronouncing, you may need to have a recording of your speech evaluated by a native speaker or language teacher. They will be able to identify any sounds that deviate from the standard English pronunciation and provide feedback on how to improve them. This could include sounds like vowels and consonants, such as the "r" sound in English, which can be difficult for Korean native speakers to produce correctly.
+
++ Overall feedback on pronunciation or speaking skills: To provide overall feedback on your pronunciation or speaking skills, a native speaker or language teacher would evaluate your speech based on a variety of factors, including pronunciation, intonation, rhythm, stress, and pronunciation errors. Based on this evaluation, they would provide you with specific feedback on areas that need improvement, as well as your strengths.
+
++ Improving pronunciation or speaking skills: To improve your pronunciation or speaking skills, you may need to focus on specific aspects of your speech. This could include practicing specific sounds, working on your rhythm and intonation, or improving your stress patterns. You could also practice speaking with native speakers or participate in pronunciation classes or workshops. In addition, listening to native speakers and paying attention to the sounds and patterns of the language can also be helpful.
+
++ Intelligibility of speech to others: Your speech intelligibility refers to how well others can understand what you are saying. This can be affected by a number of factors, including pronunciation, clarity, and the speed of your speech. To determine your speech intelligibility, you can ask native speakers or language teachers to evaluate your speech and provide feedback.
+
++ Priorities for improving speaking skills: To improve your speaking skills, you should prioritize the areas that need the most work. This may include focusing on pronunciation, working on your intonation and rhythm, or improving your stress patterns. Additionally, practicing speaking in real-life situations, such as in conversation with native speakers or in formal presentations, can help you to improve your speaking skills. Finally, building your vocabulary and grammar skills can also enhance your overall speaking abilities.
 
 
