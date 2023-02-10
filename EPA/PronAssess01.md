@@ -6,8 +6,7 @@
 
 + Understanding Learner Needs: Different learners have different pronunciation goals and needs. Some may want to develop a neutral accent, while others may want to improve their accent in a specific region. Teachers should be aware of their students' needs and tailor their instruction accordingly.
 
-
-+Using a Balance of Theory and Practice: Learning English pronunciation requires both theoretical understanding and practical application. Teachers should provide explanations of pronunciation rules and sound patterns, but also ensure that students have ample opportunities to practice and improve their pronunciation.
++ Using a Balance of Theory and Practice: Learning English pronunciation requires both theoretical understanding and practical application. Teachers should provide explanations of pronunciation rules and sound patterns, but also ensure that students have ample opportunities to practice and improve their pronunciation.
 
 + Incorporating Pronunciation into Everyday Classroom Activities: Pronunciation can be integrated into various aspects of the English curriculum, such as reading, writing, speaking, and listening activities. Teachers should make use of real-life materials and encourage students to use English in authentic contexts.
 
