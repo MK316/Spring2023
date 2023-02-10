@@ -1,5 +1,5 @@
 # 🌿 Topic 1. English Pronunciation: Where to start?
-- EPA Week 01
+EPA Week 01
 
 ## Q1. As English educators, what would they want to know about English pronunciation teaching?  
 
