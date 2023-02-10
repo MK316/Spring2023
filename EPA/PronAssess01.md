@@ -14,7 +14,7 @@
 
 + **Staying Up-to-Date:** The field of English language teaching is constantly evolving, and teachers should strive to keep up-to-date with the latest teaching methods and materials. This includes attending workshops and training sessions, reading research articles and books, and participating in online communities of practice.
 
-**Q2. For English learners, what would they want to know about English pronunciation?**  
+**Q2. For English learners, what would they want to know about how to improve their English pronunciation?**  
 
 + which sounds (vowels and consonants) you're mispronouncing
 + overall feedback on my pronunciation (or speaking skills) 
