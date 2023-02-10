@@ -1,6 +1,6 @@
 # English Pronunciation
 
-**Q1. For English teachers, what would you want to know about English pronunciation?**  
+**Q1. For English teachers, what would they want to know about English pronunciation teaching?**  
 
 + The Importance of Pronunciation: Pronunciation is a crucial aspect of learning English as it affects overall comprehensibility and helps to convey meaning effectively. Teachers should make pronunciation a priority in their lessons.
 
