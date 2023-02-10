@@ -1,7 +1,7 @@
 # 🌿 EPA Week 01: 
 ## Topic [1] English Pronunciation: where to start?
 
-**Q1. For English teachers, what would they want to know about English pronunciation teaching?**  
+**Q1. As English educators, what would they want to know about English pronunciation teaching?**  
 
 + **The Importance of Pronunciation:** Pronunciation is a crucial aspect of learning English as it affects overall comprehensibility and helps to convey meaning effectively. Teachers should make pronunciation a priority in their lessons.
 
@@ -15,9 +15,9 @@
 
 + **Staying Up-to-Date:** The field of English language teaching is constantly evolving, and teachers should strive to keep up-to-date with the latest teaching methods and materials. This includes attending workshops and training sessions, reading research articles and books, and participating in online communities of practice.
 
-**Q2. For English learners, what would they want to know about how to improve their English pronunciation?**  
+**Q2. As English learners, what would you want to know about how to improve their English pronunciation?**  
 
-+ Identifying mispronounced sounds: To determine which sounds you're mispronouncing, you may need to have a recording of your speech evaluated by a native speaker or language teacher. They will be able to identify any sounds that deviate from the standard English pronunciation and provide feedback on how to improve them. This could include sounds like vowels and consonants, such as the "r" sound in English, which can be difficult for Korean native speakers to produce correctly.
++ **Identifying mispronounced sounds:** To determine which sounds you're mispronouncing, you may need to have a recording of your speech evaluated by a native speaker or language teacher. They will be able to identify any sounds that deviate from the standard English pronunciation and provide feedback on how to improve them. This could include sounds like vowels and consonants, such as the "r" sound in English, which can be difficult for Korean native speakers to produce correctly.
 
 + **Overall feedback on pronunciation or speaking skills:** To provide overall feedback on your pronunciation or speaking skills, a native speaker or language teacher would evaluate your speech based on a variety of factors, including pronunciation, intonation, rhythm, stress, and pronunciation errors. Based on this evaluation, they would provide you with specific feedback on areas that need improvement, as well as your strengths.
 
