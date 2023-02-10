@@ -3,7 +3,7 @@ Graduate Course (3 Credits)
 
 |Names|E-mail|Github ID|
 |--|--|--|
-|MK|mk3one6@gmail.com|MK316|
+|MK|mk3one6@gmail.com|[MK316](https://github.com/mk316)|
 ||||
 ||||
 ||||
