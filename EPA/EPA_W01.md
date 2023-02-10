@@ -17,7 +17,7 @@ EPA Week 01
 
 
 ### Q2. As English learners, what would you want to know about how to improve their English pronunciation?  
-
+---
 + **Identifying mispronounced sounds:** To determine which sounds you're mispronouncing, you may need to have a recording of your speech evaluated by a native speaker or language teacher. They will be able to identify any sounds that deviate from the standard English pronunciation and provide feedback on how to improve them. This could include sounds like vowels and consonants, such as the "r" sound in English, which can be difficult for Korean native speakers to produce correctly.
 
 + **Overall feedback on pronunciation or speaking skills:** To provide overall feedback on your pronunciation or speaking skills, a native speaker or language teacher would evaluate your speech based on a variety of factors, including pronunciation, intonation, rhythm, stress, and pronunciation errors. Based on this evaluation, they would provide you with specific feedback on areas that need improvement, as well as your strengths.
