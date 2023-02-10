@@ -2,7 +2,7 @@
 EPA Week 01
 
 ### Q1. As English educators, what would they want to know about English pronunciation teaching?  
-
+---
 + **The Importance of Pronunciation:** Pronunciation is a crucial aspect of learning English as it affects overall comprehensibility and helps to convey meaning effectively. Teachers should make pronunciation a priority in their lessons.
 
 + **Understanding Learner Needs:** Different learners have different pronunciation goals and needs. Some may want to develop a neutral accent, while others may want to improve their accent in a specific region. Teachers should be aware of their students' needs and tailor their instruction accordingly.
