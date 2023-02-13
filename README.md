@@ -18,4 +18,4 @@
 |  2 | Text-to-Image (Replicate), AI  | [App](https://replicate.com/stability-ai/stable-diffusion)  |Creating images based on text description |   |
 | 3  | Text-to-Speech (gTTS) |   |   |   |
 | 4  |Speech-to-Text |   |   |   |
-| 5  |   |   |   |   |
+| 5  | chatGPT & Gradio  | [App](https://github.com/MK316/Teachingapps/blob/main/chatGPT_Gradio.ipynb)  | Creating your own chatbot  |   |
