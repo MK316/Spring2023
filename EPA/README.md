@@ -27,7 +27,7 @@ Selected readings from:
 
 |Wk#|Date|Topic|Readings|Coding/tools|Assignments|
 |--|:--:|--|--|--|--|
-|W01|3/8|Course overview; Setting up basic tools; [Introduction](https://github.com/MK316/Spring2023/blob/main/EPA/EPA_W01.md)|Syllabus|[NB01]|Todo[^0]|
+|W01|3/8|Course overview; Setting up basic tools; [Introduction](https://github.com/MK316/Spring2023/blob/main/EPA/EPA_W01.md)|Syllabus|[NB01]|Todo[^*]|
 |W02|3/13|Essential terminology; nativeness and intelligibility principles |Reading01[^1]|[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
 |W03|3/15|1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness; 2) Diagnoistic assessments: speech recordings of L2. |Reading02[^2] ||
 |W04|3/22|What do raters need in a pronunciation scale? |Reading03[^3] ||
@@ -46,7 +46,7 @@ Selected readings from:
 
 
 
-[^0]: (1) Open a Github account (2) Create a repository and name it as "EPA_S2023" (3) Send me your account name via email (mk3one6@gmail.com) by Mar.11(Sat). (e.g., github.com/MK316)
+[^*]: (1) Open a Github account (2) Create a repository and name it as "EPA_S2023" (3) Send me your account name via email (mk3one6@gmail.com) by Mar.11(Sat). (e.g., github.com/MK316)
 [^1]: Reading 01: PF chapter 1 (Ch.1 Key concepts)
 [^2]: Reading 02: BRAM chapter 1 (Ch.1 Introduction to teaching pronunciation, from Beyond Repeat After Me: Teaching Pronunciation to English Learners)
 [^3]: Reading 03: SLPA chapter 2 (Ch.2 What do raters need in a pronunciation scale? The user's view (by Luke Harding))
