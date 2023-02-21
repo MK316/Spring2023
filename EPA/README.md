@@ -43,11 +43,6 @@ Selected readings from:
 |W014|5/31| Project discussion (TBA) | ||
 |W015|6/7|Final project | ||
 
-
-
-
-(1) Open a Github account (2) Create a repository and name it as "EPA_S2023" (3) Send me your account name via email (mk3one6@gmail.com) by Mar.11(Sat). (e.g., github.com/MK316)
-
 [^1]: Reading 01: PF chapter 1 (Ch.1 Key concepts)
 [^2]: Reading 02: BRAM chapter 1 (Ch.1 Introduction to teaching pronunciation, from Beyond Repeat After Me: Teaching Pronunciation to English Learners)
 [^3]: Reading 03: SLPA chapter 2 (Ch.2 What do raters need in a pronunciation scale? The user's view (by Luke Harding))
