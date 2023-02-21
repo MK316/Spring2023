@@ -28,8 +28,8 @@ Selected readings from:
 |Wk#|Date|Topic|Readings|Coding/tools|Assignments|
 |--|:--:|--|--|--|--|
 |W01|3/8|Course overview; Setting up basic tools; [Introduction](https://github.com/MK316/Spring2023/blob/main/EPA/EPA_W01.md)|Syllabus|[NB01]|[Todo](https://github.com/MK316/Spring2023/blob/main/EPA/todo_01.md)|
-|W02|3/13|Essential terminology; nativeness and intelligibility principles |Reading01[^1]|[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
-|W03|3/15|1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness; 2) Diagnoistic assessments: speech recordings of L2. |Reading02[^2] ||
+|W02|3/13|Essential terminology; nativeness and intelligibility principles; 1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness;  |Reading01[^1]|[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
+|W03|3/15|2) Diagnoistic assessments: speech recordings of L2. |Reading02[^2] ||
 |W04|3/22|What do raters need in a pronunciation scale? |Reading03[^3] ||
 |W05|3/29|A pedagogical perspective on L2 phonetic acquisition: **Phonetic knowledge** |Reading04[^4] ||
 |W06|4/5|Pronunciation errors - what counts as an error? |Reading05[^5] ||
