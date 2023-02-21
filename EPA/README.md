@@ -39,7 +39,7 @@ Selected readings from:
 |W010|5/3| Implementing technology in classroom pedagogy 2| ||
 |W011|5/10|Implementing technology in classroom pedagogy 3 | ||
 |W012|5/17| Accented speech | Reading07[^8] ||
-|W013|5/24| Future directionns|Reading08[^9] ||
+|W013|5/24| Future directions|Reading08[^9] ||
 |W014|5/31| Project discussion (TBA) | ||
 |W015|6/7|Final project | ||
 
