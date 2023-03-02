@@ -19,4 +19,4 @@
 | 3  | Text-to-Speech (gTTS) | [gtts](https://github.com/MK316/Teachingapps/blob/main/gTTS.ipynb)  |   |   |
 | 4  |Speech-to-Text |   |   |   |
 | 5  | chatGPT & Gradio  | [Code page](https://github.com/MK316/Teachingapps/blob/main/chatGPT_Gradio.ipynb)  | Creating your own chatbot  | [Youtube ref.](https://www.youtube.com/watch?v=n5nn3mQxrE8)  |
-|6| Grouping | Random grouping | [code](https://github.com/MK316/Spring2023/blob/main/grouping.ipynb) ||
+|6| Grouping | [code](https://github.com/MK316/Spring2023/blob/main/grouping.ipynb) | Random grouping |  |
