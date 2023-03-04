@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | 1  | Text-to-Video, AI | [Code page](https://github.com/MK316/Class_Spring2022/blob/main/Animated_Video_with_AI.ipynb)  | Creating Animated Video with AI  | [Youtube ref.](https://www.youtube.com/watch?v=YZHZrKgtNbA&t=866s)  |
 |  2 | Text-to-Image (Replicate), AI  | [App](https://replicate.com/stability-ai/stable-diffusion)  |Creating images based on text description |   |
-| 3  | Text-to-Speech (gTTS) | [gtts](https://github.com/MK316/Teachingapps/blob/main/gTTS.ipynb)  |   |   |
-| 4  |Speech-to-Text |   |   |   |
+| 3  | Text-to-Speech (gTTS) | [gtts](https://github.com/MK316/Teachingapps/blob/main/gTTS.ipynb)  | Converting written texts to spoken words  |   |
+| 4  |Speech-to-Text |   |  Converting spoken data to written texts |   |
 | 5  | chatGPT & Gradio  | [Code page](https://github.com/MK316/Teachingapps/blob/main/chatGPT_Gradio.ipynb)  | Creating your own chatbot  | [Youtube ref.](https://www.youtube.com/watch?v=n5nn3mQxrE8)  |
 |6| Grouping | [code](https://github.com/MK316/Spring2023/blob/main/grouping.ipynb) | Random grouping |  |
