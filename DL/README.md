@@ -32,7 +32,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |W12|May 23|Web Interface: Gradio||||
 |W13|May 30|Integrating Technology in English Education 1: <br> Using technology to support language learning <br> Integrating technology in the English classroom||||
 |**W14**|June 13|Integrating Technology in English Education 2: <br> Evaluating the impact of technology on student learning||||
-|**W15**|June 20|Final exam (task-based exam)||||
+|**W15**|June 20|Final exam (project-based exam)||||
 
 ## 🌀 Reading list
 
