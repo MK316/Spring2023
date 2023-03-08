@@ -19,7 +19,7 @@ By the end of this course, students will have a strong foundation in digital lit
 
 |Week|Date (Tue)|Topic| Keywords | Github file(s)|Activities, tasks|
 |--|:--:|:--|:--:|:--:|:--:|
-|W01|March 7 | Introduction to Digital Literacy: Overview of digital literacy and its importance in English education <br> The digital landscape and technological developments <br> Overview of the course and expectations |chatGPT, digital tools | DLW01| Survey#1, [Task01](https://github.com/MK316/Spring2023/blob/main/DL/dltasks.md) |  
+|W01|March 7 | Introduction to Digital Literacy: Overview of digital literacy and its importance in English education <br> The digital landscape and technological developments <br> Overview of the course and expectations |chatGPT, digital tools | DLW01| [Survey#1](https://forms.gle/tcUqgaePP1Kogunz7), [Task01](https://github.com/MK316/Spring2023/blob/main/DL/dltasks.md) |  
 |W02|March 14|Basic coding 1: Understanding digital devices and operating systems|variables, operators, data types|Python, Colab, github, Markdown|DLW02|[Reading 01](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)[^1]|
 |W03|March 21|Basic coding 2: Bring coding to your classroom|list, dictionary, dataframe, file handling|DLW03||
 |W04|March 27|Digital Communication and Collaboration 1: <br> Social media and online communities <Br> Collaboration tools|modules, input-putput|DLW04||
