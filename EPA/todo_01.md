@@ -1,4 +1,4 @@
-# Todo [1] (by Monday)
+# Todo [1] (by Tuesday)
 
 1. Open a Google account
 2. Create a Github account - [share the account](https://github.com/MK316/Spring2023/discussions/2))
