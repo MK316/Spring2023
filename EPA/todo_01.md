@@ -6,7 +6,7 @@
 4. Create a (**public**) repository names "EPA_S2023" 
 5. Create a readme.md file, where you'll be recording your working process. It's like a log file over the course. 
 
-<Recording for pronunciation diagnosis>
+## Recording for pronunciation diagnosis
   
 1. Material: printed handout of 18 sentences and one passage [pdf link](https://github.com/MK316/Spring2023/blob/main/Engpro/data/recording_material_engpro.pdf)
 2. Recording using Praat software [download link](https://www.fon.hum.uva.nl/praat/download_win.html)
