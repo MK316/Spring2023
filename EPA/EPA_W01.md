@@ -1,6 +1,7 @@
 # 🌿 Topic 1. English Pronunciation: Where to start?
 EPA Week 01
 
+---
 ### ▶️ Q1. As English educators, what would you want to know about English pronunciation teaching?  
 ---
 + **The Importance of Pronunciation:** Pronunciation is a crucial aspect of learning English as it affects overall comprehensibility and helps to convey meaning effectively. Teachers should make pronunciation a priority in their lessons.
