@@ -16,7 +16,7 @@ EPA Week 01
 
 + **Staying Up-to-Date:** The field of English language teaching is constantly evolving, and teachers should strive to keep up-to-date with the latest teaching methods and materials. This includes attending workshops and training sessions, reading research articles and books, and participating in online communities of practice.
 
-
+---
 ### ▶️ Q2. As English learners, what would you want to know about how to improve their English pronunciation?  
 ---
 + **Identifying mispronounced sounds:** To determine which sounds you're mispronouncing, you may need to have a recording of your speech evaluated by a native speaker or language teacher. They will be able to identify any sounds that deviate from the standard English pronunciation and provide feedback on how to improve them. This could include sounds like vowels and consonants, such as the "r" sound in English, which can be difficult for Korean native speakers to produce correctly.
@@ -29,6 +29,7 @@ EPA Week 01
 
 + **Priorities for improving speaking skills:** To improve your speaking skills, you should prioritize the areas that need the most work. This may include focusing on pronunciation, working on your intonation and rhythm, or improving your stress patterns. Additionally, practicing speaking in real-life situations, such as in conversation with native speakers or in formal presentations, can help you to improve your speaking skills. Finally, building your vocabulary and grammar skills can also enhance your overall speaking abilities.
 
+---
 ### ▶️ Sample Pronunciation class:
- ---
+---
 📗 go to [Engpro Spring 2023](https://github.com/MK316/Spring2023/tree/main/Engpro))
