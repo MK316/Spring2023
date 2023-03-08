@@ -3,6 +3,8 @@
 
 : Undergraduate course (2 Credits), 11-1pm Wednesdays.
 
+👉 [Syllabus download](https://github.com/MK316/Spring2023/blob/main/DL/files/S23Syllabus_Digital_Literacy.pdf)
+
 ## 🌀 Course Overview
 
 This undergraduate course aims to introduce students to the concept of digital literacy and its importance as a future language teacher. Digital literacy skills are increasingly crucial for language teachers in the 21st century and here are some reasons why:
