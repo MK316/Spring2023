@@ -28,4 +28,6 @@ EPA Week 01
 
 + **Priorities for improving speaking skills:** To improve your speaking skills, you should prioritize the areas that need the most work. This may include focusing on pronunciation, working on your intonation and rhythm, or improving your stress patterns. Additionally, practicing speaking in real-life situations, such as in conversation with native speakers or in formal presentations, can help you to improve your speaking skills. Finally, building your vocabulary and grammar skills can also enhance your overall speaking abilities.
 
-### Sample Pronunciation class (go to [Engpro Spring 2023](https://github.com/MK316/Spring2023/tree/main/Engpro))
+### ▶️ Sample Pronunciation class:
+ ---
+📗 go to [Engpro Spring 2023](https://github.com/MK316/Spring2023/tree/main/Engpro))
