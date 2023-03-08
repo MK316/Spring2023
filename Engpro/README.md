@@ -19,13 +19,13 @@ This course aims to help students understand key principles of English pronuncia
 |W06|4/13, 18|Schwa vowel, Vowels and stress, English Rhythm|||
 |W07|4/20, 25|English vowel pairs, Review|||
 |W08|4/27, 5/2|Midterm|||
-|W09|5/4, 9||||
-|W10|5/11, 16||||
-|W11|5/18, 23||||
-|W12|5/25, 30||||
+|W09|5/4, 9| Intonation, rhythm of English|||
+|W10|5/11, 16|English consonant sets 1|||
+|W11|5/18, 23|English consonant sets 2|||
+|W12|5/25, 30|English consonant sets 3|||
 |W13|6/1, (6)[^1]||||
-|W14|6/8, 13||||
-|W15|6/15, 20||||
+|W14|6/8, 13|Sound rules, Sound linking, multiple consonants|||
+|W15|6/15, 20|Review|||
 |W16|6/22|Final presentation (inclass)|||
 
 [^1]: Holiday (no class)
