@@ -32,4 +32,4 @@ EPA Week 01
 ---
 ### ▶️ Sample Pronunciation class:
 ---
-📗 go to [Engpro Spring 2023](https://github.com/MK316/Spring2023/tree/main/Engpro))
+📗 go to [Engpro Spring 2023](https://github.com/MK316/Spring2023/blob/main/Engpro/README.md)
