@@ -6,3 +6,6 @@
 
 # DL Task 2 (Week02)
 
+1. Web search for a digital literacy education case (actual case)
+2. Summarize, share, and discuss the case in class (Week04~Week05)
+3. Use a PPT presentation (10 minutes for each group)
