@@ -7,5 +7,5 @@
 # DL Task 2 (Week02)
 
 1. Web search for a digital literacy education case (actual case)
-2. Summarize, share, and discuss the case in class (Week04~Week05)
+2. Summarize, share, and discuss the case in class (Week04~Week05): [Assign dates](https://github.com/MK316/Spring2023/blob/main/Random_date_assign.ipynb)
 3. Use a PPT presentation (10 minutes for each group)
