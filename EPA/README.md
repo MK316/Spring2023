@@ -28,20 +28,20 @@ Selected readings from:
 |Wk#|Date|Topic|Readings|Coding/tools|Assignments|
 |--|:--:|--|--|--|--|
 |W01|3/8|Course overview; Setting up basic tools; Introduction|[Syllabus](https://github.com/MK316/Spring2023/blob/main/EPA/data/S23Syllabus_PhD_AssmEngPron.pdf)|[NB01](https://github.com/MK316/Spring2023/blob/main/EPA/EPA_W01.md)|[Todo](https://github.com/MK316/Spring2023/blob/main/EPA/todo_01.md), [Praat recording](https://github.com/MK316/Spring2023/blob/main/data/praat_recording.pdf)|
-|W02|3/13|Essential terminology; nativeness and intelligibility principles; 1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness;  ||[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
-|W03|3/15|2) Diagnoistic assessments: speech recordings of L2. |Reading01[^1] ||
-|W04|3/22|What do raters need in a pronunciation scale? |Reading02[^2] ||
-|W05|3/29|A pedagogical perspective on L2 phonetic acquisition: **Phonetic knowledge** |Reading03[^3] ||
-|W06|4/5|Pronunciation errors - what counts as an error? |Reading04[^4]||
-|W07|4/12|Pronunciation Instruction (PI) | Reading05[^5] ||
-|W08|4/19|Midterm | ||
-|W09|4/26|Implementing technology in classroom pedagogy 1 |Reading06[^6]||
-|W010|5/3| Implementing technology in classroom pedagogy 2|Reading06[^7]  ||
-|W011|5/10|Implementing technology in classroom pedagogy 3 | ||
-|W012|5/17| Accented speech | Reading07[^8] ||
-|W013|5/24| Future directions|Reading08[^9] ||
-|W014|5/31| Project discussion (TBA) | ||
-|W015|6/7|Final project | ||
+|W02|3/15|Essential terminology; nativeness and intelligibility principles; 1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness;  ||[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
+|W03|3/22|2) Diagnoistic assessments: speech recordings of L2. |Reading01[^1] ||
+|W04|3/29|What do raters need in a pronunciation scale? |Reading02[^2] ||
+|W05|4/5|A pedagogical perspective on L2 phonetic acquisition: **Phonetic knowledge** |Reading03[^3] ||
+|W06|4/12|Pronunciation errors - what counts as an error? |Reading04[^4]||
+|W07|4/19|Pronunciation Instruction (PI) | Reading05[^5] ||
+|W08|4/26|Midterm | ||
+|W09|5/3|Implementing technology in classroom pedagogy 1 |Reading06[^6]||
+|W010|5/10| Implementing technology in classroom pedagogy 2|Reading06[^7]  ||
+|W011|5/17|Implementing technology in classroom pedagogy 3 | ||
+|W012|5/24| Accented speech | Reading07[^8] ||
+|W013|6/7| Future directions|Reading08[^9] ||
+|W014|6/14| Project discussion (TBA) | ||
+|W015|6/21|Final project | ||
 
 [^1]: Reading 01: PF chapter 1 (Ch.1 Key concepts)
 [^2]: Reading 02: BRAM chapter 1 (Ch.1 Introduction to teaching pronunciation, from Beyond Repeat After Me: Teaching Pronunciation to English Learners)
