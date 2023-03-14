@@ -28,7 +28,7 @@ Selected readings from:
 |Wk#|Date|Topic|Readings|Coding/tools|Assignments|
 |--|:--:|--|--|--|--|
 |W01|3/8|Course overview; Setting up basic tools; Introduction|[Syllabus](https://github.com/MK316/Spring2023/blob/main/EPA/data/S23Syllabus_PhD_AssmEngPron.pdf)|[NB01](https://github.com/MK316/Spring2023/blob/main/EPA/EPA_W01.md)|[Todo](https://github.com/MK316/Spring2023/blob/main/EPA/todo_01.md), [Praat recording](https://github.com/MK316/Spring2023/blob/main/data/praat_recording.pdf)|
-|W02|3/15|Essential terminology; nativeness and intelligibility principles; 1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness;  ||[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
+|W02|3/15|Essential terminology; nativeness and intelligibility principles; 1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness;  |Class demo|[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
 |W03|3/22|2) Diagnoistic assessments: speech recordings of L2. |Reading01[^1] ||
 |W04|3/29|What do raters need in a pronunciation scale? |Reading02[^2] ||
 |W05|4/5|A pedagogical perspective on L2 phonetic acquisition: **Phonetic knowledge** |Reading03[^3] ||
