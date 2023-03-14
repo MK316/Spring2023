@@ -5,7 +5,7 @@ Graduate Course (3 Credits)
 |--|--|--|
 |MK|mk3one6@gmail.com|[MK316](https://github.com/mk316)|
 |HP||[Epark3004](https://github.com/Epark3004)|
-|HS|||
+|HS||[Son324](https://github.com/Son324)|
 |WJ||[Alexwcjung](https://github.com/Alexwcjung)|
 
 
