@@ -20,3 +20,4 @@
 | 4  |Speech-to-Text |   |  Converting spoken data to written texts |   |
 | 5  | chatGPT & Gradio  | [Code page](https://github.com/MK316/Teachingapps/blob/main/chatGPT_Gradio.ipynb)  | Creating your own chatbot  | [Youtube ref.](https://www.youtube.com/watch?v=n5nn3mQxrE8)  |
 |6| Grouping | [code](https://github.com/MK316/Spring2023/blob/main/grouping_new.ipynb), [activity date assignment](https://github.com/MK316/Spring2023/blob/main/Random_date_assign.ipynb) | Random grouping |  |
+|7| AI generated video | 6 Traits to be a good teacher | [link](https://www.youtube.com/watch?v=VFWEJNaIJCo)||
