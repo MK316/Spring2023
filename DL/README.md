@@ -41,8 +41,8 @@ By the end of this course, students will have a strong foundation in digital lit
 
 |Reading|Full Reference|File link|
 |--|--|--|
-|Lics|Intergrating DL into English Language Instruction: Issue Brief [^1]|[pdf](https://lincs.ed.gov/sites/default/files/ELL_Digital_Literacy_508.pdf)|  
-|Hafner et al. (2015)|Digital literacies and language learning [^2] |[pdf](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)|
+|01. Lics|Intergrating DL into English Language Instruction: Issue Brief [^1]|[pdf](https://lincs.ed.gov/sites/default/files/ELL_Digital_Literacy_508.pdf)|  
+|02. Hafner et al. (2015)|Digital literacies and language learning [^2] |[pdf](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)|
 
 [^1]: https://lincs.ed.gov/ - Reading from [Digital Literacy - Issue Brief](https://lincs.ed.gov/state-resources/federal-initiatives/teaching-skills-matter-adult-education/digital-literacy)
 [^2]: Hafner, C. A., Chik, A., & Jones, R. H. (2015). Digital literacies and language learning. _Language Learning & Technology, 19(3),_ 1–7. 
