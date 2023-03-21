@@ -25,7 +25,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |W02|March 15|Basic coding 1: Understanding digital devices and operating systems|Python, Colab, github, Markdown;<br> variables, operators, data types|[DLW02a](https://github.com/MK316/Spring2023/blob/main/DL/DLW02a.ipynb)|[Log#1](https://forms.gle/ymNxgkpC14AeQkr19),<br>[Reading 01](https://lincs.ed.gov/sites/default/files/ELL_Digital_Literacy_508.pdf)[^1]|
 |W03|March 22|Basic coding 2: Bring coding to your classroom|list, dictionary, dataframe, file handling|[DLW02b](https://github.com/MK316/Spring2023/blob/main/DL/DLW02b.ipynb),<br>[DLW02c](https://github.com/MK316/Spring2023/blob/main/DL/DLW02c.ipynb)|[Log#2](https://forms.gle/3Tv8WbPPESxwToMLA)|
 |W04|March 29|Digital Communication and Collaboration 1: <br> Social media and online communities <Br> Collaboration tools|modules, input-putput|DLW04||
-|W05|April 5[^3]|Digital Communication and Collaboration 2: <br> Tools to share? |In-class presentations|||
+|W05|April 5 [^3]|Digital Communication and Collaboration 2: <br> Tools to share? |In-class presentations|||
 |W06|April 12|Digital Content Creation 1: <br> Word processing and text editing <br> Presentation software <br> Digital images and graphics|||
 |W07|April 19|Digital Content Creation 2: Word processing and text editing <br> Presentation software <br> Digital images and graphics||||
 |**W08**|April 26|**_Midterm (Individual task)_**|||Demo4|
@@ -47,3 +47,4 @@ By the end of this course, students will have a strong foundation in digital lit
 
 [^1]: https://lincs.ed.gov/ - Reading from [Digital Literacy - Issue Brief](https://lincs.ed.gov/state-resources/federal-initiatives/teaching-skills-matter-adult-education/digital-literacy)
 [^2]: Hafner, C. A., Chik, A., & Jones, R. H. (2015). Digital literacies and language learning. _Language Learning & Technology, 19(3),_ 1–7. 
+[^3]: 
