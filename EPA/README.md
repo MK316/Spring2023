@@ -25,7 +25,7 @@ Selected readings from:
 ## 🍃 Course Schedule (Wednesdays) and materials
 
 
-|Wk#|Date|Topic|Readings|Coding/tools|Activities &<br> Assignments|
+|Wk#|Date|Topic|Readings|Coding/tools|Activities & Assignments|
 |--|:--:|--|--|--|--|
 |W01|3/8|Course overview; Setting up basic tools; Introduction|[Syllabus](https://github.com/MK316/Spring2023/blob/main/EPA/data/S23Syllabus_PhD_AssmEngPron.pdf)|[NB01](https://github.com/MK316/Spring2023/blob/main/EPA/EPA_W01.md)|[Todo](https://github.com/MK316/Spring2023/blob/main/EPA/todo_01.md), [Praat recording](https://github.com/MK316/Spring2023/blob/main/data/praat_recording.pdf)|
 |W02|3/15|Essential terminology; nativeness and intelligibility principles; 1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness;  |Class demo|[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
