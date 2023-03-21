@@ -44,6 +44,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |--|--|--|
 |01. Lics|Intergrating DL into English Language Instruction: Issue Brief [^1]|[pdf](https://lincs.ed.gov/sites/default/files/ELL_Digital_Literacy_508.pdf)|  
 |02. Hafner et al. (2015)|Digital literacies and language learning [^3] |[pdf](https://www.researchgate.net/publication/285926202_Digital_literacies_and_language_learning)|
+|03. Jump to Python | [Wikidocs book](https://wikidocs.net/11) | |
 
 [^1]: https://lincs.ed.gov/ - Reading from [Digital Literacy - Issue Brief](https://lincs.ed.gov/sites/default/files/ELL_Digital_Literacy_508.pdf)
 [^2]: Holiday (No class)
