@@ -44,12 +44,18 @@ Selected readings from:
 |W015|6/21|Final project | ||
 
 [^1]: Reading 01: PF chapter 1 (Ch.1 Key concepts)
-[^2]: Reading 02: BRAM chapter 1 (Ch.1 Introduction to teaching pronunciation, from Beyond Repeat After Me: Teaching Pronunciation to English Learners)
-[^3]: Reading 03: SLPA chapter 2 (Ch.2 What do raters need in a pronunciation scale? The user's view (by Luke Harding))
-[^4]: Reading 04: PF chapter 3 (Ch.3 A pedagogical perspective on L2 phonetic acquisition)
-[^5]: Reading 05: PF chapter 4 (Ch.4 Pronunciation errors and error gravity)
-[^6]: Reading 06: PF chapter 5 (Ch.5 Pronunciation instruction research)
-[^7]: Reading 07: Pf chapter 7 (Ch.7 Technology in L2 pronunciation instruction)
-[^8]: Reading 08: PF chapter 8 (Ch.8 Social aspects of accent)
-[^9]: Reading 09: PF chapter 10 (Ch.10 Future directions)
+[^2]: Reading 02: PF chapter 2 (Ch.2 Historical overview of pronunciation)
+[^3]: Reading 03: PF chapter 3 (Ch.3 A pedagogical perspective on L2 phonetic acquisition)
+[^4]: Reading 04: PF chapter 4 (Ch.4 Pronunciation errors and error gravity)
+
+(TBA)
+
+[^5]: Reading 05: PF chapter 5 (Ch.5 Pronunciation instruction research)
+[^6]: Reading 06: Pf chapter 7 (Ch.7 Technology in L2 pronunciation instruction)
+[^7]: Reading 07: PF chapter 8 (Ch.8 Social aspects of accent)
+[^8]: Reading 08: PF chapter 10 (Ch.10 Future directions)
+[^9]: Reading 09: BRAM chapter 1 (Ch.1 Introduction to teaching pronunciation, from Beyond Repeat After Me: Teaching Pronunciation to English Learners)
+[^10]: SLPA chapter 2 (Ch.2 What do raters need in a pronunciation scale? The user's view (by Luke Harding)
+
+
 
