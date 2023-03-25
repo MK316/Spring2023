@@ -4,7 +4,7 @@
 : Undergraduate course (2 Credits), 11-1pm Wednesdays.
 
 👉 [💾 Syllabus download (revised 0308)](https://github.com/MK316/Spring2023/blob/main/DL/files/S23Syllabus_Digital_Literacy.pdf)  
-👉 [Github accounts of enrolling students](https://docs.google.com/spreadsheets/d/17SX51lCqOdtvC7cAGoX5tP9fKwVdGY5sRzMg2pXh9uk/edit?usp=sharing)
+👉 🔍 [Github accounts of enrolling students](https://docs.google.com/spreadsheets/d/17SX51lCqOdtvC7cAGoX5tP9fKwVdGY5sRzMg2pXh9uk/edit?usp=sharing)
 
 ## 🌀 Course Overview
 
