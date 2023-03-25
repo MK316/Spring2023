@@ -1,4 +1,4 @@
-# Why OpenAI’s ChatGPT Is Such A Big Deal
+# Why OpenAI’s ChatGPT Is Such A Big Deal [12m 52s]
 
 [video link](https://www.youtube.com/watch?v=pOmpqdlVCoo)
 
