@@ -43,6 +43,15 @@ By the end of this course, students will have a strong foundation in digital lit
 |**W15**|June 14|Final exam (project-based exam)||||
 |**W16**|June 21|Final exam (project-based exam)||||
 
+---
+## Classtools
+
+|Keywords|Description|link|
+|--|--|--|
+|gTTS| Create web-based TTS app using {gradio}| [myTTS](https://github.com/MK316/Teachingapps/blob/main/gTTS_livelink.ipynb)|
+||||
+
+
 ## 🌀 Reading list
 
 |Reading|Full Reference|File link|
