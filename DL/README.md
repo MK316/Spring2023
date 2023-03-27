@@ -1,5 +1,5 @@
 # 🌱 Digital Literacy and English Education (Spring 2023) 
-(Updated asof 0308)
+(Updated asof 0327)
 
 : Undergraduate course (2 Credits), 11-1pm Wednesdays.
 
