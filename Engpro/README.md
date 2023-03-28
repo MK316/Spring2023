@@ -14,7 +14,7 @@ This course aims to help students understand key principles of English pronuncia
 |W02|3/9, 14|What is sound? English vowels, IPA symbols|[Engpro_W02](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_W02.ipynb)||
 |W03|3/16, 21|Classification of vowels, English vowel pair 1|[Engpro_W03](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_W03.ipynb)||
 |W04|3/23, 28|English vowel pair 2|[Lesson 4](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_Lesson4.ipynb)|[Listening LS2](https://github.com/MK316/Engpro/blob/main/Lesson02_listening.ipynb), <br>[Listening LS3](https://github.com/MK316/Engpro/blob/main/Lesson03_listening.ipynb)|
-|W05|3/30, 4/4|English vowel pair 3|||
+|W05|3/30, 4/4|English vowel pair 3|[Lesson 5](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_Lesson5.ipynb)||
 |W06|4/6, 11|English vowel pair 4|||
 |W06|4/13, 18|Schwa vowel, Vowels and stress, English Rhythm|||
 |W07|4/20, 25|English vowel pair 5, Review|||
