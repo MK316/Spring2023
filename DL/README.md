@@ -9,6 +9,7 @@
 👉 🔍 [Github accounts of enrolling students](https://docs.google.com/spreadsheets/d/17SX51lCqOdtvC7cAGoX5tP9fKwVdGY5sRzMg2pXh9uk/edit?usp=sharing)  
 👉 🔍 [Padlet to share images](https://padlet.com/miranege/DL2023)  
 👉 🔍 [Tools to share: Assign 2](https://docs.google.com/spreadsheets/d/1g0BJwqMRLZh1JiCzqiGbp7Ao3LrgLrb8gLfEVmjf7_0/edit#gid=0)
+👉 🔍 [Codebook](https://github.com/MK316/Spring2023/blob/main/DL/codebooks/README.md)
 
 ## 🌀 Course Overview
 
