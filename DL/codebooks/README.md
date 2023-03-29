@@ -31,6 +31,7 @@ def tts(text):
 from IPython.display import Audio
 
 Audio("myaudio.mp3", autoplay = True)
+# The audio file should be in the colab platform /content/myaudio.mp3
 ```
 
 [More] Google Mount on Colab
