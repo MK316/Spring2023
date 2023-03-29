@@ -20,3 +20,15 @@ from IPython.display import Audio
 Audio("myaudio.mp3", autoplay = True)
 ```
 
+3. Google Mount on Colab
+
+```
+from google.colab import drive
+drive.mount('/content/drive')
+```
+
+```
+# Unmount drive
+drive.flush_and_unmount()
+```
+
