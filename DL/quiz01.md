@@ -1,6 +1,6 @@
 # Digital Literacy Quiz #01
 
-Based on the reading01
+Based on the [reading01: Digital Literacy - Issue Brief](https://lincs.ed.gov/sites/default/files/ELL_Digital_Literacy_508.pdf)
 
 + This is an open book quiz.
 + There are 10 questions.
