@@ -12,3 +12,11 @@ def tts(text):
   return Audio("/content/myaudio.mp3")
   
 ```
+2. display Audio (audio play)
+
+```
+from IPython.display import Audio
+
+Audio("myaudio.mp3", autoplay = True)
+```
+
