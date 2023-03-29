@@ -9,7 +9,7 @@ type(y)
 
 ```
 # Commenting
-# This is a comment: only humans read this.
+y + y # This is a comment too: only humans read this.
 ```
 
 
