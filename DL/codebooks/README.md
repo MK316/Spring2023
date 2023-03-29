@@ -1,5 +1,13 @@
 # Code we've learned (to be updated)
 
+```
+x = 12
+y = "Mary"
+print(x)
+type(y)
+```
+
+
 1. gTTS
 
 ```
@@ -20,7 +28,7 @@ from IPython.display import Audio
 Audio("myaudio.mp3", autoplay = True)
 ```
 
-3. Google Mount on Colab
+[More] Google Mount on Colab
 
 ```
 from google.colab import drive
