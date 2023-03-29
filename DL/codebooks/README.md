@@ -7,6 +7,11 @@ print(x)
 type(y)
 ```
 
+```
+# Commenting
+# This is a comment: only humans read this.
+```
+
 
 1. gTTS
 
