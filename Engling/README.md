@@ -8,4 +8,4 @@
 
 |Week|Chapters|Activities|
 |---|---|---|
-|W04|Ch.2 Phonetics | [Quiz01](test.md)|
+|W04|Ch.2 Phonetics | [Quiz01](https://github.com/MK316/Spring2023/blob/main/Engling/test.md)|
