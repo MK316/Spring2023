@@ -8,4 +8,4 @@
 
 |Week|Chapters|Activities|
 |---|---|---|
-|W04|Ch.2 Phonetics | [Quiz01](https://forms.gle/kc6MbbBj19BVXRjb9)|
+|W04|Ch.2 Phonetics | [Quiz01](https://forms.gle/R9ahLhZ1vUf1Updm6)|
