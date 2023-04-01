@@ -22,4 +22,4 @@
 |6| Grouping | [code](https://github.com/MK316/Spring2023/blob/main/grouping_new.ipynb), [activity date assignment](https://github.com/MK316/Spring2023/blob/main/Random_date_assign.ipynb) | Random grouping |  |
 |7| AI generated video | 6 Traits to be a good teacher | [link](https://www.youtube.com/watch?v=VFWEJNaIJCo)||
 |8| Q & A app (asof 0329) | Ask questions and chatGPT answers in text or in voice | [code](https://github.com/MK316/Spring2023/blob/main/DL/GPTandTTS.ipynb) |[Reference video](https://youtu.be/XxIfSkkyAaQ)|
-|9| D-day count | Number of days and/or hours left until a specific event | [code](https://github.com/MK316/applications/blob/main/D_day_count.ipynb) ||
+|9| D-day count | Number of days and/or hours left until a specific event | [code](https://github.com/MK316/applications/blob/main/D_day_count.ipynb) | chatGPT|
