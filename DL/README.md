@@ -3,14 +3,16 @@
 
 : Undergraduate course (2 Credits), 11-1pm Wednesdays.
 
-## 🌀 Class links
-+ 🔍 [Group report by group leaders - google spreadsheet](https://docs.google.com/spreadsheets/d/1Q2PjbFVABOUA5A1RYWdvHErXKGqMeRzvHknGAye4ic4/edit?usp=sharing)  
-+ [💾 Syllabus download (revised 0308)](https://github.com/MK316/Spring2023/blob/main/DL/files/S23Syllabus_Digital_Literacy.pdf)  
-+ 🔍 [Github accounts of enrolling students](https://docs.google.com/spreadsheets/d/17SX51lCqOdtvC7cAGoX5tP9fKwVdGY5sRzMg2pXh9uk/edit?usp=sharing)  
-+ 🔍 [Padlet to share images](https://padlet.com/miranege/DL2023)  
-+ 🔍 [Tools to share: Assign 2](https://docs.google.com/spreadsheets/d/1g0BJwqMRLZh1JiCzqiGbp7Ao3LrgLrb8gLfEVmjf7_0/edit#gid=0)  
-+ 🔍 [Codebook](https://github.com/MK316/Spring2023/blob/main/DL/codebooks/README.md)
-+ 🔍 [emoji list](https://gist.github.com/rxaviers/7360908)
+## 🌀 Class links quick links
+
+|Class material & tools | Att & Assignments | Others|
+|--|--|--|
+|[💾 Syllabus download (revised 0308)](https://github.com/MK316/Spring2023/blob/main/DL/files/S23Syllabus_Digital_Literacy.pdf)|🔍 [Group activity attendance check](https://forms.gle/4DVDa1s6q6NWyS7U7)||
+|🔍 [Github accounts of enrolling students](https://docs.google.com/spreadsheets/d/17SX51lCqOdtvC7cAGoX5tP9fKwVdGY5sRzMg2pXh9uk/edit?usp=sharing)|🔍[Group report by group leaders - google spreadsheet](https://docs.google.com/spreadsheets/d/1Q2PjbFVABOUA5A1RYWdvHErXKGqMeRzvHknGAye4ic4/edit?usp=sharing)||
+|🔍 [Padlet to share images](https://padlet.com/miranege/DL2023|🔍 [Tools to share: Assign 2](https://docs.google.com/spreadsheets/d/1g0BJwqMRLZh1JiCzqiGbp7Ao3LrgLrb8gLfEVmjf7_0/edit#gid=0)||
+|🔍[Codebook](https://github.com/MK316/Spring2023/blob/main/DL/codebooks/README.md)|||
+|🔍[emoji list](https://gist.github.com/rxaviers/7360908)|||
+ 
 
 ## 🌀 Course Overview
 
