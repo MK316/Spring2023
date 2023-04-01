@@ -53,7 +53,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |Keywords|Description|link|
 |--|--|--|
 |gTTS (0329)| Create web-based TTS app using {gradio}| [myTTS](https://github.com/MK316/Teachingapps/blob/main/gTTS_livelink.ipynb)|
-||||
+|Video generate AI|Create a video using Steve.ai & ChatGPT|[ppt](https://github.com/MK316/Spring2023/blob/main/DL/data/Creating%20a%20video%20using%20AI%20tools_notext.pptx)|
 
 
 ## 🌀 Reading list
