@@ -31,7 +31,7 @@ Selected readings from:
 |W02|3/15|Essential terminology; nativeness and intelligibility principles; 1) Setting up the goals: accuracy, intelligibility, comprehensibility, accentedness;  |Class demo|[Speechnotes](https://speechnotes.co/), [Speech Studio](https://speech.microsoft.com/portal/pronunciationassessmenttool)||
 |W03|3/22|2) Diagnoistic assessments: speech recordings of L2. |Reading01[^1] |[Markdown guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), <br>[Lecture slides](https://github.com/MK316/Spring2023/blob/main/EPA/Slides/EPA_CH01.key.pdf), <br>[Rainbow passage](https://github.com/MK316/Spring2023/blob/main/EPA/rainbow.ipynb)|[Lesson sample](https://colab.research.google.com/github/MK316/Spring2023/blob/main/DL/DLW02c.ipynb), <br> [Assign01](https://github.com/MK316/Spring2023/blob/main/DL/DL_Assign01.ipynb)|
 |W04|3/29|Basic concepts: Accuracy, intelligibility, comprehensibility, fluency, etc. |||
-|W05|4/5| Hitorical overivew of pronunciation teaching |Reading02[^2] HS discussion||
+|W05|4/5| Historical overivew of pronunciation teaching |Reading02[^2] HS discussion||
 |W06|4/12|A pedagogical perspective on L2 phonetic acquisition: **Phonetic knowledge** |Reading03[^3] WC discussion||
 |W07|4/19| Pronunciation errors - what counts as an error?, <br>Pronunciation Instructions (PI) |Reading04[^4] HP discussion  ||
 |W08|4/26|Midterm | ||
