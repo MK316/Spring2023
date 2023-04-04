@@ -9,4 +9,4 @@
 |Week|Chapters|Activities|Date|
 |---|---|---|---|
 |W02~4|Ch.2 Phonetics | [Engling Classtool](https://github.com/MK316/Spring2023/blob/main/Engling_tools.ipynb)||
-|W05~7|Ch.3 Phonology | [Engling Classtool](https://github.com/MK316/Spring2023/blob/main/Engling/Engling_overview.ipynb)|4/4|
+|W05~7|Ch.3 Phonology | [Engling activity](https://github.com/MK316/Spring2023/blob/main/Engling/Engling_overview.ipynb)|4/4|
