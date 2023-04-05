@@ -16,16 +16,16 @@ This course aims to help students understand key principles of English pronuncia
 |W04|3/23, 28|English vowel pair 2|[Lesson 4](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_Lesson4.ipynb)|[Listening LS2](https://github.com/MK316/Engpro/blob/main/Lesson02_listening.ipynb), <br>[Listening LS3](https://github.com/MK316/Engpro/blob/main/Lesson03_listening.ipynb)|
 |W05|3/30, 4/4|English vowel pair 3|[Lesson 5](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_Lesson5.ipynb),<br>[Lesson 6](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_Lesson6.ipynb)||
 |W06|4/6, 11|English vowel pair 4: diphthong vowels|[Lesson 7](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_Lesson7.ipynb)||
-|W06|4/13, 18|Schwa vowel, Vowels and stress, English Rhythm|||
-|W07|4/20, 25|English vowel pair 5, Review|||
-|W08|4/27, 5/2|Midterm|||
-|W09|5/4, 9| Intonation, rhythm of English|||
-|W10|5/11, 16|English consonant sets 1|||
-|W11|5/18, 23|English consonant sets 2|||
-|W12|5/25, 30|English consonant sets 3|||
-|W13|6/1, (6)[^1]||||
-|W14|6/8, 13|Sound rules, Sound linking, multiple consonants|||
-|W15|6/15, 20|Review|||
-|W16|6/22|Final presentation (inclass)|||
+|W07|4/13, 18|Schwa vowel, Vowels and stress, English Rhythm|||
+|W08|4/20, 25|English vowel pair 5, Review|||
+|W09|4/27, 5/2|Midterm|||
+|W10|5/4, 9| Intonation, rhythm of English|||
+|W11|5/11, 16|English consonant sets 1|||
+|W12|5/18, 23|English consonant sets 2|||
+|W13|5/25, 30|English consonant sets 3|||
+|W14|6/1, (6)[^1]|Sound rules, Sound linking, multiple consonants|||
+|W15|6/8, 13|Review|||
+|W16|6/15, 20|Final presentation (inclass)|||
+|TBA|6/22|TBA|||
 
 [^1]: Holiday (no class)
