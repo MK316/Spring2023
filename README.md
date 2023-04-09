@@ -23,3 +23,6 @@
 |7| AI generated video | 6 Traits to be a good teacher | [link](https://www.youtube.com/watch?v=VFWEJNaIJCo)||
 |8| Q & A app (asof 0329) | Ask questions and chatGPT answers in text or in voice | [code](https://github.com/MK316/Spring2023/blob/main/DL/GPTandTTS.ipynb) |[Reference video](https://youtu.be/XxIfSkkyAaQ)|
 |9| D-day count | Number of days and/or hours left until a specific event | [code](https://github.com/MK316/applications/blob/main/D_day_count.ipynb) | chatGPT|
+|10| Random Picker S23 | Pick one students in a class for activity.| [code](https://github.com/MK316/Spring2023/blob/main/RandomPickerS23.ipynb) ||
+
+|10| Random Pick in classroom | Pick one students in a class for activity.| [code]()
