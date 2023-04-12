@@ -37,7 +37,7 @@ Selected readings from:
 |W08|4/26|Midterm | ||
 |W09|5/3|Implementing technology in classroom pedagogy 1 |Reading06[^6]||
 |W010|5/10| Implementing technology in classroom pedagogy 2|Reading06[^7]  ||
-|W011|5/17|Implementing technology in classroom pedagogy 3 | ||
+|W011|5/17 (TBA)|Implementing technology in classroom pedagogy 3 | ||
 |W012|5/24| Accented speech | Reading07[^8] ||
 |W013|6/7| Future directions|Reading08[^9] ||
 |W014|6/14| Project discussion (TBA) | ||
