@@ -1,4 +1,4 @@
-#🌱 Language Game Applications
+# 🌱 Language Game Applications
 
 | ID | File | Description | DIY | 
 |--|--|--|--|
