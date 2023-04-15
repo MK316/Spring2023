@@ -1,4 +1,4 @@
-# (4/19) Self-Test: Strings and Integers
+# (4/19) Self-Test: Strings and Integers (Allocated time: 20 minutes)
 
 + Objective: This self-test lesson aims to help you practice your understanding of strings and integers in Python, using the Google Colab platform.
 
