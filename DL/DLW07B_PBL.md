@@ -1,4 +1,4 @@
-# Self-Test: Strings and Integers
+# (4/19) Self-Test: Strings and Integers
 
 + Objective: This self-test lesson aims to help you practice your understanding of strings and integers in Python, using the Google Colab platform.
 
@@ -12,7 +12,7 @@ e.g., DL/DLW07B_KMR.ipynb (KMR should be your initials of the name)
 2. Sign in with your Google account.
 3. Click on File > New notebook.
 
-## Step 2: Write a brief description of strings and integers
+## Step 2: Write a brief description of strings and integers in a text cell
 
 Before we start the exercises, let's briefly recall what strings and integers are.
 
