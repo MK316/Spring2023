@@ -2,7 +2,7 @@
 
 + Objective: This self-test lesson aims to help you practice your understanding of strings and integers in Python, using the Google Colab platform.
 
-**Note: Individuals in each group should create his/her own file (python notebook ending with .ipynb) and save it in his/her own repository:**  
+**📌Note: Individuals in each group should create his/her own file (python notebook ending with .ipynb) and save it in his/her own repository:**  
 e.g., DL2023/DL/DLW07B_KMR.ipynb (KMR should be your initials of the name)
 
 
