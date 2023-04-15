@@ -1,4 +1,11 @@
-# (4/19) Self-Test: Strings and Integers (Allocated time: 20 minutes)
+# (4/19) Todo list
+
+1. [Attendance checking](https://docs.google.com/forms/d/e/1FAIpQLSdRWMlvSV5OmM_4vMIs5tt55uo9ZCCav-ZDcDO838zmgNR9QA/viewform) (2 minutes)
+2. Self-Test: Strings and Integers (20 minutes)
+3. [DLW07B_02.ipynb](https://github.com/MK316/Spring2023/blob/main/DL/DLW07_PBL02.ipynb) (25 minutes)
+
+---
+# 2. Self-text: strings and integers
 
 + Objective: This self-test lesson aims to help you practice your understanding of strings and integers in Python, using the Google Colab platform.
 
@@ -94,3 +101,5 @@ quote = "To be or not to be, that is the question."
 # Write your code here
 ```
 Congratulations! You have completed the self-test lesson on strings and integers. If you have any questions or need further clarification, don't hesitate to ask your teacher.
+---
+# 3. Go to [DLW07B_02.ipynb](https://github.com/MK316/Spring2023/blob/main/DL/DLW07_PBL02.ipynb) (25 minutes)
