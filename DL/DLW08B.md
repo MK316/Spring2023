@@ -68,9 +68,13 @@ Visit [my github](https://github.com/mk316)
 
 The image file needs to be in the same directory with this md file
 
-'''
 <p align="center">
   <img src="safe.png" width="450" title="hover text">
 </p>
-'''
+
+```
+<p align="center">
+  <img src="safe.png" width="450" title="hover text">
+</p>
+```
 
