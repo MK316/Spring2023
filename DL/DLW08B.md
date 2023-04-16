@@ -14,18 +14,18 @@
 ---
 ```
 
-###[2] **This word** is in bold.
+### [2] **This word** is in bold.
 ```
 **This word** is in bold.
 ```
 
-###[3] _This word_ is in italic.
+### [3] _This word_ is in italic.
 
 ```
 _This word_ is in italic.
 ```
 
-###[4] Bullets
+### [4] Bullets
 
 + Bullet 1
 + Bullet 2
@@ -35,7 +35,7 @@ _This word_ is in italic.
 + Bullet 2
 ```
 
-###[5] Numbering
+### [5] Numbering
 
 1. Number 1
 2. Number 2
@@ -45,13 +45,13 @@ _This word_ is in italic.
 2. Number 2
 ```
 
-###[6] How break a line? (two empty spaces)  
+### [6] How break a line? (two empty spaces)  
 
 This is how.
 This is the second line.  
 This is the third line.  
 
-###[7] File link
+### [7] File link
 
 Visit [my website](https://MK316.github.io)
 ```
@@ -61,7 +61,7 @@ Visit [my github](https://github.com/mk316)
 ```
 Visit [my github](https://github.com/mk316)
 ```
-###[8] Image link
+### [8] Image link
 
 The image file needs to be in the same directory with this md file
 
