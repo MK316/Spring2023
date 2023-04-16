@@ -45,11 +45,11 @@ _This word_ is in italic.
 2. Number 2
 ```
 
-### [6] How break a line? (two empty spaces)  
+### [6] How to break a line? (two empty spaces after the end of the line)  
 
-This is how.
-This is the second line.  
-This is the third line.  
+This is how.(two spaces are here)
+This is the second line.(two spaces are here)  
+This is the third line.(two spaces are here)  
 
 ### [7] File link
 
