@@ -1,7 +1,7 @@
 Note: Cells in gray color shows what you type to get the above format in a md file.
 
-# 🐾 DLWeek 08 Group acitivity: learn markdown language to format md files
-## The page you're looking has '.md' as its file extention. (e.g., DLW08B.md)
+# DLWeek 08 Group acitivity: learn markdown language to format md files
+## 🐾 The page you're looking has '.md' as its file extention. (e.g., DLW08B.md)
 ### This looks smaller than the above
 
 ```
