@@ -18,11 +18,15 @@
 ```
 **This word** is in bold.
 ```
+
 ###[3] _This word_ is in italic.
+
 ```
 _This word_ is in italic.
 ```
+
 ###[4] Bullets
+
 + Bullet 1
 + Bullet 2
 
@@ -32,6 +36,7 @@ _This word_ is in italic.
 ```
 
 ###[5] Numbering
+
 1. Number 1
 2. Number 2
 
@@ -41,6 +46,7 @@ _This word_ is in italic.
 ```
 
 ###[6] How break a line? (two empty spaces)  
+
 This is how.
 This is the second line.  
 This is the third line.  
