@@ -74,7 +74,7 @@ The image file needs to be in the same directory with this md file
 
 ```
 <p align="center">
-  <img src="safe.png" width="450" title="hover text">
+  <img src="safe.png" width="450" title="Safe inside the blanket">
 </p>
 ```
 
