@@ -7,13 +7,11 @@
 ## The page you're looking has '.md' as its file extention. (e.g., DLW08B.md)
 ### This looks smaller than the above
 ```
-### [1] Here you see two lines
+### [1] Here you see a line
 ---
-===
 
 ```
 ---
-===
 ```
 
 ###[2] **This word** is in bold.
