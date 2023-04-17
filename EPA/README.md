@@ -33,7 +33,7 @@ Selected readings from:
 |W04|3/29|Basic concepts: Accuracy, intelligibility, comprehensibility, fluency, etc. |||
 |W05|4/5| Historical overivew of pronunciation teaching |Reading02[^2] HS discussion||
 |W06|4/12|A pedagogical perspective on L2 phonetic acquisition: **Phonetic knowledge Part 1** |Reading03[^3] WC discussion|[Demo apps](https://github.com/MK316/Spring2023/blob/main/EPA/EPA_W06_demos.ipynb),<br>[Random picker](https://github.com/MK316/Spring2023/blob/main/RandomPickerS23.ipynb)|
-|W07|4/19|**Phonetic knowledge Part 2**|Reading03[^3] WC discussion|[💾 Perception Exp sample](https://github.com/MK316/Spring2023/raw/main/EPA/data/perception01.zip)|
+|W07|4/19|**Phonetic knowledge Part 2**, [Praat](https://www.fon.hum.uva.nl/praat/)|Reading03[^3] WC discussion|[💾 Perception Exp sample](https://github.com/MK316/Spring2023/raw/main/EPA/data/perception01.zip)|
 |W08|4/26| Pronunciation errors - what counts as an error?, <br>Pronunciation Instructions (PI) |Reading04[^4] HP discussion  ||
 |W09|5/3|Implementing technology in classroom pedagogy 1 |Reading06[^6]||
 |W010|5/10| Implementing technology in classroom pedagogy 2|Reading06[^7]  ||
