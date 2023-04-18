@@ -28,5 +28,5 @@ In summary, a perception experiment using Praat involves preparing stimuli, desi
 
 |Date|Description|Link|
 |--|--|--|
-|0419|Assessing L2 Accentedness|[Exp01.md](https://github.com/MK316/Spring2023/edit/main/EPA/Exp01.md)|
+|0419|Assessing L2 Accentedness|[Exp01.md](https://github.com/MK316/Spring2023/blob/main/EPA/Exp01.md)|
 
