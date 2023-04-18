@@ -14,7 +14,7 @@ Here is a step-by-step guide to prepare a perception experiment using the Experi
 
 More to do: will be updated.
 
-## **Experiment design and research process**
+##**Experiment design and research process**
 
 1. Create stimuli files: Record or obtain the 18 sentence stimuli as individual audio files (preferably in WAV format). Name them systematically, e.g., S01.wav, S02.wav, etc.
 
