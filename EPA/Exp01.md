@@ -1,4 +1,4 @@
-# Experiment 01: Assessing L2 accentedness
+# 💦 Experiment 01: Assessing L2 accentedness
 
 Here is a step-by-step guide to prepare a perception experiment using the ExperimentMFC object in Praat, where participants will rate 18 sentence stimuli on a scale of 1 (Heavily accented) to 6 (Native like):
 
