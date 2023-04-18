@@ -2,7 +2,7 @@
 
 Here is a step-by-step guide to prepare a perception experiment using the ExperimentMFC object in Praat, where participants will rate 18 sentence stimuli on a scale of 1 (Heavily accented) to 6 (Native like):
 
-1. Create stimuli files: Record or obtain the 18 sentence stimuli as individual audio files (preferably in WAV format). Name them systematically, e.g., stimulus1.wav, stimulus2.wav, etc.
+1. Create stimuli files: Record or obtain the 18 sentence stimuli as individual audio files (preferably in WAV format). Name them systematically, e.g., S01.wav, S02.wav, etc.
 
 2. Organize stimuli: Create a folder named "stimuli" and place all the audio files within it. This folder will be used to store and organize the stimuli for the experiment.
 
