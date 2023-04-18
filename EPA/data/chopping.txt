@@ -1,0 +1,76 @@
+# This script will extract labeled parts from a long sound and save each into wav files.
+# To run this script, you need a (long) file with a corresponding textgrid file (matching file name with the wav file), 
+# where (1) each boundaries are marked as intervals, and (2) label name = file name to be saved.
+# 
+# MK (June,2010)
+######################################################
+
+#1. Dialog box
+
+form Read all files from the given directory specified below
+	sentence Source_dir	C:/workspace/
+	sentence Outfile_dir 	C:/workspace/Sounds/
+	sentence Logfile_name 
+	sentence Tier 1
+endform
+
+#2 Create a list of the sound files in the given directory, and put the number of files into the variable "num_files"
+
+Create Strings as file list... list 'Source_dir$'*.wav
+num_files = Get number of strings
+
+# 3. Write a list of files (labels) processed
+
+header_row$ = "Filename" + tab$ + "from(t1)" + tab$ + "to(t2)" + tab$ + "duration(ms.)" + newline$
+header_row$ > 'Source_dir$''logfile_name$'chopping_log.txt
+
+for j from 1 to num_files
+	select Strings list
+	current_token$ = Get string... 'j'
+
+	Read from file... 'Source_dir$''current_token$'
+
+	object_name$ = selected$ ("Sound")
+	select Sound 'object_name$'
+	Read from file... 'Source_dir$''object_name$'.TextGrid
+
+# Query the begen and end of interval(s)
+
+	select TextGrid 'object_name$'
+	number_of_intervals = Get number of intervals... 'tier$'
+	for b from 1 to number_of_intervals
+		select TextGrid 'object_name$'
+			interval_label$ = Get label of interval... 'tier$' 'b'
+				if interval_label$ <> ""
+					beg_seg = Get starting point... 'tier$' 'b'
+					end_seg = Get end point... 'tier$' 'b'
+					duration = (end_seg - beg_seg)*1000
+
+						fileappend "'Source_dir$''logfile_name$'_chopping_log.txt"'tab$'''object_name$'_'interval_label$'''tab$''beg_seg:2''tab$''end_seg:2''tab$''duration:2''newline$'
+
+					select Sound 'object_name$'
+					plus TextGrid 'object_name$'
+
+						Extract all intervals... 'tier$' no
+					select Sound 'interval_label$'
+#					Edit
+					Write to WAV file... 'Outfile_dir$''object_name$'_'interval_label$'.wav
+					num_labels = (number_of_intervals - 1)/2
+				endif
+	endfor
+select all
+minus Strings list
+Remove
+endfor
+
+select all
+
+	Remove
+		
+clearinfo
+
+#message at the end
+
+echo Now the sub files are saved in the following directory: 'newline$''newline$'
+
+print 'Outfile_dir$'
