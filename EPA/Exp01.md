@@ -20,7 +20,7 @@ More to do: will be updated.
 
 2. Organize stimuli: Create a folder named "Sounds" and place all the audio files within it. This folder will be used to store and organize the stimuli for the experiment.
 
-3. Create a Praat script: (Exp01.praat)
+3. Create a Praat script: (e.g., Exp01.praat)
   
 4. Run the experiment: Open Praat, go to "Praat > Open Praat script", and select the script you created in step 5. Press "Run" to execute the script and start the experiment.
 
