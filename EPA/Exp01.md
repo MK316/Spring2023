@@ -6,7 +6,7 @@ Here is a step-by-step guide to prepare a perception experiment using the Experi
 
 1. Create a folder named **_workspace_** directly under **_C:/workspace/_** > Create **_Exp01_** folder under that folder > Create **Sounds** folder under that folder
 2. Download speech file (https://github.com/MK316/Spring2023/tree/main/EPA)
-3. Open Praat > read wav file > create a TextGrid file > Labelling > Extract audio by sentences > Save them under C:/workspace/Exp01/Sounds/
+3. Open Praat > read wav file > create a TextGrid file > Labelling > Extract audio by sentences [using Praat script](https://raw.githubusercontent.com/MK316/Spring2023/main/EPA/data/chopping.txt) > Create a file named 'chopping.praat' > (Extract audio files) > Save the audio files under C:/workspace/Exp01/Sounds/
 4. In Praat Object, create a new praat script > Copy and paste [this script](https://github.com/MK316/Spring2023/raw/main/EPA/exp01.txt) > Save it as Exp01.praat under C:/workspace/Exp01/
 5. Understand the script (Exp01.praat)
 6. In Praat, **_Open > Read from file..._** > Open **_Exp01.praat_** > **_Run_**
