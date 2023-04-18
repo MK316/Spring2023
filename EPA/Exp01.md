@@ -2,7 +2,7 @@
 
 Here is a step-by-step guide to prepare a perception experiment using the ExperimentMFC object in Praat, where participants will rate 18 sentence stimuli on a scale of 1 (Heavily accented) to 6 (Native like):
 
-**Pre-setting:** 
+##**Pre-setting:** 
 
 1. Create a folder named "workspace" directly under C:/workspace/ > Create Exp01 folder under that folder > Create Sounds folder under that folder
 2. Download speech file (https://github.com/MK316/Spring2023/tree/main/EPA)
@@ -14,7 +14,7 @@ Here is a step-by-step guide to prepare a perception experiment using the Experi
 
 More to do: will be updated.
 
-## Experiment design and research process
+## **Experiment design and research process**
 
 1. Create stimuli files: Record or obtain the 18 sentence stimuli as individual audio files (preferably in WAV format). Name them systematically, e.g., S01.wav, S02.wav, etc.
 
