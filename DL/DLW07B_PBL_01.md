@@ -3,8 +3,8 @@
 [😊 This activity has a video instruction](): When playing, set the play speed as 1.25 (faster). Otherwise you'll run out of time for this activity.
 
 1. [Attendance checking](https://docs.google.com/forms/d/e/1FAIpQLSdRWMlvSV5OmM_4vMIs5tt55uo9ZCCav-ZDcDO838zmgNR9QA/viewform) (2 minutes)
-2. Self-Test: Strings and Integers (20 minutes)
-3. [DLW07B_02.ipynb](https://github.com/MK316/Spring2023/blob/main/DL/DLW07_PBL02.ipynb) (25 minutes)
+2. Self-Test: Strings and Integers (30 minutes)
+3. [DLW07B_02.ipynb](https://github.com/MK316/Spring2023/blob/main/DL/DLW07_PBL02.ipynb) (15 minutes)
 
 ---
 # 2. Self-text: strings and integers
