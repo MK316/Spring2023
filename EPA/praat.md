@@ -24,5 +24,8 @@ A perception experiment using Praat involves presenting auditory stimuli to part
 
 In summary, a perception experiment using Praat involves preparing stimuli, designing the experiment, scripting the presentation and data collection process, running the experiment with participants, analyzing the collected data, and interpreting the results.
 
+## Sample experiments
 
+|Date|Description|Link|
+|0419|Assessing L2 Accentedness|[Exp01.md](https://github.com/MK316/Spring2023/edit/main/EPA/Exp01.md)|
 
