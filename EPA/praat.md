@@ -1,10 +1,10 @@
-# Praat software:
+# Praat software: Doing Phonetics Using Computer
 
 **Praat** is a versatile, open-source software for phonetic analysis and synthesis, designed by Paul Boersma and David Weenink [Phonetic Sciences, University of Amsterdam](https://www.fon.hum.uva.nl/). It allows researchers, linguists, and educators to analyze, manipulate, and visualize speech sounds with a user-friendly interface. Praat offers tools for recording, labeling, and segmenting audio files, as well as extracting acoustic features such as pitch, formants, and intensity. Users can generate spectrograms, manipulate pitch contours, and create synthetic speech. Praat supports scripting for advanced analysis and automation, making it a popular choice for investigating linguistic questions and exploring the complexities of human speech.
 
 + Download (for Windows or Mac): [https://www.fon.hum.uva.nl/praat/](https://www.fon.hum.uva.nl/praat/)
 
-## MFC Experiment
+## Perception Experiment ([ExperimentMFC tutorial](https://www.fon.hum.uva.nl/praat/manual/ExperimentMFC.html))
 
 A perception experiment using Praat involves presenting auditory stimuli to participants and collecting their responses to evaluate how they perceive specific speech sounds, phonetic features, or other acoustic properties. Here is a general outline of the process:
 
@@ -24,5 +24,5 @@ A perception experiment using Praat involves presenting auditory stimuli to part
 
 In summary, a perception experiment using Praat involves preparing stimuli, designing the experiment, scripting the presentation and data collection process, running the experiment with participants, analyzing the collected data, and interpreting the results.
 
-[Tutorial](https://www.fon.hum.uva.nl/praat/manual/ExperimentMFC.html)
+
 
