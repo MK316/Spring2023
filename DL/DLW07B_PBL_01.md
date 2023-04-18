@@ -15,24 +15,26 @@ e.g., DL2023/DL/DLW07B_KMR.ipynb (KMR should be your initials of the name)
 
 ## Step 1: Open a new Colab notebook
 
+Here's how to:  
 1. Go to Google Colab.
-2. Sign in with your Google account.
+2. (Sign in with your Google account.)
 3. Click on File > New notebook.
 
-## Step 2: Write a brief description of strings and integers in a text cell
+## Step 2: Write a brief description of "string" and "integer" in a text cell
 
 Before we start the exercises, let's briefly recall what strings and integers are.
 
 + Strings: A string is a sequence of characters enclosed in single or double quotes. Examples: "Hello, world!" or 'Python is great!'
 + Integers: Integers are whole numbers, positive or negative, without any decimal points. Examples: 42, -5, 0
 
-Now that we have refreshed our memory, let's move on to the exercises!
+Now that we have refreshed our memory on "string" and "integer", let's move on to the exercises!
 
 # 💦Exercises
 
 ## 📙Exercise 1: Create a string and an integer
 
-Create a string named greeting that contains the value "Hello, students!" and an integer named year that contains the value 2023.
+Create a variable with the name 'greeting'. Assign the string value "Hello, students!".
+Create a variable with the name 'year'. Assign the integer value 2023 to the variable 'year'.
 
 ```
 # Write your code here
@@ -55,12 +57,10 @@ _Hint: You'll need to convert the integer to a string using the str() function._
 
 Create two integers named num1 and num2 with the values 10 and 3, respectively. Perform the following arithmetic operations and print the results:
 
-Addition
-Subtraction
-Multiplication
-Division (floating-point result)
-Integer division (quotient)
-Modulus (remainder)
+Addition: e.g., print(num1 + num2)
+Subtraction:
+Multiplication: 
+Division: (output is floating-point result)
 
 ```
 # Write your code here
@@ -74,14 +74,14 @@ _Hint: You'll need to use the input() function and convert the input to an integ
 ```
 
 ## 📙Exercise 6: Splitting a string
-Given a string sentence, split it into words and store the result in a list named words_list. Then, print the list.
+Given a string sentence, split it into words and store the result in a list named word_list. Then, print the list.
 ```
 sentence = "Coding is fun and easy to learn!"
 
 # Write your code here
 ```
 ## 📙Exercise 7: Converting strings to uppercase and lowercase
-Create a string text containing the value "Coding is Exciting!". Convert the string to uppercase and store it in a variable named uppercase_text. Convert the string to lowercase and store it in a variable named lowercase_text. Finally, print both uppercase_text and lowercase_text.
+Create a string text containing the value "Coding is Exciting!". Convert the string to uppercase and store it in a variable named uppercase_text. Convert the string to lowercase and store it with a variable named lowercase_text. Finally, print both uppercase_text and lowercase_text.
 
 ```
 # Write your code here
