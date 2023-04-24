@@ -17,7 +17,7 @@ This course aims to help students understand key principles of English pronuncia
 |W05|3/30, 4/4|English vowel pair 3|[Lesson 5](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_Lesson5.ipynb),<br>[Lesson 6](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_Lesson6.ipynb)||
 |W06|4/6, 11|English vowel pair 4: diphthong vowels|[Lesson 7](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_Lesson7.ipynb)||
 |W07|4/13, 18|Schwa vowel, Vowels and stress, English Rhythm|[Lesson 8](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson8.ipynb),<br>[Lesson 9](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson9.ipynb)||
-|W08|4/20, 25|English vowel pair 5, Review|||
+|W08|4/20, 25|English vowel pair 5, Review|[Midterm preview](https://colab.research.google.com/drive/1P4iyx_n34ni39hT6F1vGgn0eWVG7j6RY#scrollTo=5eu6C-Mt1az1)||
 |W09|4/27, 5/2|Midterm|||
 |W10|5/4, 9| Intonation, rhythm of English|||
 |W11|5/11, 16|English consonant sets 1|||
