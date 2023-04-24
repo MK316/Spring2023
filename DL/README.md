@@ -39,8 +39,8 @@ By the end of this course, students will have a strong foundation in digital lit
 |W07|April 19|Learn Codes to create language apps 2: module import, funtions, for loops, conditional statements <br> Presentation software <br> Digital images and graphics||[DLW06A_part2](https://github.com/MK316/Spring2023/blob/main/DL/DLW06A_part2.ipynb)|[DLW07B 01](https://github.com/MK316/Spring2023/blob/main/DL/DLW07B_PBL_01.md),<br>[DLW07B 02](https://github.com/MK316/Spring2023/blob/main/DL/DLW07_PBL02.ipynb)|[Log#6](https://forms.gle/1Si6eRwRKi8WNNrd9)|
 |W08|April 26|Project based learning||[DLW06A_part2](https://github.com/MK316/Spring2023/blob/main/DL/DLW06A_part2.ipynb)|[DLW08B](https://github.com/MK316/Spring2023/blob/main/DL/DWL08B.ipynb)||
 |W09|May 3|**Midterm** |||||
-|W10|May 10|Digital Research and Information Literacy 2: <br> Evaluating online sources and avoiding plagiarism: <br>|||||
-|W11|May 17|Digital Safety and Privacy: <br> Understanding online privacy and security <br> Protecting personal information online <br> Dealing with online harassment and cyberbullying|||||
+|W10|May 10|Natural Language Processing 1: nltk <br>|||||
+|W11|May 17|Natural Language Processing 2: nltk|||||
 |W12|May 24|Web Interface: Gradio|||||
 |W13|May 31|Integrating Technology in English Education 1: <br> Using technology to support language learning <br> Integrating technology in the English classroom|||||
 |W14|June 7|Integrating Technology in English Education 2: <br> Evaluating the impact of technology on student learning|||||
