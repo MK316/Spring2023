@@ -5,7 +5,7 @@
 
 ## 🌀 Class links quick links
 
-|Class material & tools (shortcuts) | Att & Assignments | Others|
+|Class material & tools | Att & Assignments | Others|
 |--|--|--|
 |[💾 Syllabus download (revised 0308)](https://github.com/MK316/Spring2023/blob/main/DL/files/S23Syllabus_Digital_Literacy.pdf)|🔍 [Group activity attendance check](https://forms.gle/4DVDa1s6q6NWyS7U7)||
 |🔍 [Github accounts of enrolling students](https://docs.google.com/spreadsheets/d/17SX51lCqOdtvC7cAGoX5tP9fKwVdGY5sRzMg2pXh9uk/edit?usp=sharing)|🔍[Group report by group leaders - google spreadsheet](https://docs.google.com/spreadsheets/d/1Q2PjbFVABOUA5A1RYWdvHErXKGqMeRzvHknGAye4ic4/edit?usp=sharing)||
