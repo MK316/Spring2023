@@ -13,3 +13,4 @@
 |W08~ |Ch.3 Feature | [Feature practice](https://github.com/MK316/Spring2023/blob/main/Feature_Practice_Game.ipynb)| 4/25 (updated after the class)|
 |W08~ | Midterm preview| nolink now | 4/25|
 |W09| Ch. 4 Morphology Preview | [preview](https://github.com/MK316/Spring2023/blob/main/Engling/Engling_Ch4_part1_preview.ipynb)| 5/2|
+| | | [table 4.9](https://github.com/MK316/Spring2023/blob/main/Engling/Engling_Morph_part1.ipynb)||5/2|
