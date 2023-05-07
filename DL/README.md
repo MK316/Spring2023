@@ -39,8 +39,8 @@ By the end of this course, students will have a strong foundation in digital lit
 |W07|April 19|Learn Codes to create language apps 2: module import, funtions, for loops, conditional statements <br> Presentation software <br> Digital images and graphics||[DLW06A_part2](https://github.com/MK316/Spring2023/blob/main/DL/DLW06A_part2.ipynb)|[DLW07B 01](https://github.com/MK316/Spring2023/blob/main/DL/DLW07B_PBL_01.md),<br>[DLW07B 02](https://github.com/MK316/Spring2023/blob/main/DL/DLW07_PBL02.ipynb)|[Log#6](https://forms.gle/1Si6eRwRKi8WNNrd9)|
 |W08|April 26|Project based learning||[DLW06A_part2](https://github.com/MK316/Spring2023/blob/main/DL/DLW06A_part2.ipynb)|[DLW08B](https://github.com/MK316/Spring2023/blob/main/DL/DWL08B.ipynb)|[Log#7](https://forms.gle/1Si6eRwRKi8WNNrd9)|
 |W09|May 3|**Midterm** |||||
-|W10|May 10|Natural Language Processing 1: nltk <br>||[DLW10A](https://github.com/MK316/Spring2023/blob/main/DL/NLP01.ipynb),<br>[DLmid](https://github.com/MK316/Spring2023/blob/main/DL/DL_midterm_final.ipynb)|[DLW10B](https://github.com/MK316/Spring2023/blob/main/DL/DLW10B.ipynb)|[nltk ref.](https://realpython.com/nltk-nlp-python/),<br>[multimodal quiz](https://forms.gle/Kp5JdDhXcNRLfknP9)|
-|W11|May 17|Natural Language Processing 2: nltk|||||
+|W10|May 10|Natural Language Processing 1: nltk <br>||[DLW10A-NLP1](https://github.com/MK316/Spring2023/blob/main/DL/NLP01.ipynb),<br>[DLmid](https://github.com/MK316/Spring2023/blob/main/DL/DL_midterm_final.ipynb)|[DLW10B](https://github.com/MK316/Spring2023/blob/main/DL/DLW10B.ipynb)|[nltk ref.](https://realpython.com/nltk-nlp-python/),<br>[multimodal quiz](https://forms.gle/Kp5JdDhXcNRLfknP9)|
+|W11|May 17|Natural Language Processing 2: nltk||[DLW11A-NLP2](https://github.com/MK316/Spring2023/blob/main/DL/NLP02.ipynb)|||
 |W12|May 24|Web Interface: Gradio|||||
 |W13|May 31|Integrating Technology in English Education 1: <br> Using technology to support language learning <br> Integrating technology in the English classroom|||||
 |W14|June 7|Integrating Technology in English Education 2: <br> Evaluating the impact of technology on student learning|||||
