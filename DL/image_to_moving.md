@@ -1,14 +1,15 @@
 # Character drawing to moving image (animation)
 
-# 1. Image file sample: you are allowed to use this image (e.g., screen capture for a charcter)
+## 1. Image file sample: you are allowed to use this image (e.g., screen capture for a charcter)
 ![Image source](https://github.com/MK316/Spring2023/blob/main/DL/files/characters.png "No copyright")
 
 
-# 2. Moving image samples
+## 2. Moving image samples
 + [Sample 1](https://sketch.metademolab.com/share/145d783348be44feaf34277fc421229f/dance001)
-+ [Sample2](https://sketch.metademolab.com/share/145d783348be44feaf34277fc421229f/hip_hop_dancing3)
++ [Sample 2](https://sketch.metademolab.com/share/145d783348be44feaf34277fc421229f/hip_hop_dancing3)
++ [Sample 3](https://sketch.metademolab.com/share/c0cfbd42371b46e58823147b2c38f866/running_jump)
 
-# 3. Here's how to
+## 3. Here's how to
 
 + Visit https://sketch.metademolab.com/canvas
 + Upload your image (one character)
