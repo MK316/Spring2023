@@ -28,6 +28,8 @@ By following these steps, you should be able to successfully submit your final p
 
 : Students create a Python program that performs basic text analysis on a given input, such as calculating word frequency, sentence length, readability scores, or common collocations. This tool can be helpful for teachers in selecting or creating appropriate materials for their students.
 
-+ [Pronunciation Practice Tool]()
++ [Pronunciation Practice Tool](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/4_SpeechRecognition.ipynb)
 
 : Students develop a Python application that helps users practice their pronunciation by comparing their spoken input to a reference audio file. The program should display a visual representation of the user's and the reference audio's sound waveforms, allowing users to see and understand the differences in their pronunciation. Additionally, the program can provide users with feedback and suggestions for improvement.
+
++ [Phonetic Transcription](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/Phonetic_Transcription_Practice.ipynb)
