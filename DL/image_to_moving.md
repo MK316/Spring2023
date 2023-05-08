@@ -1,6 +1,8 @@
-# Character drawing to moving image (animation)
+# 🎶 Character drawing to moving image (animation)
 
 ## 1. Image file sample: you are allowed to use this image (e.g., screen capture for a charcter)
+Note: _This is AI generated images from Midjourney_
+
 ![Image source](https://github.com/MK316/Spring2023/blob/main/DL/files/characters.png "No copyright")
 
 
