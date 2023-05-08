@@ -1,5 +1,8 @@
 # Spring 2023 DL Final Project
 
+The final project is to design examples of how digital tools can be used in English language learning or teaching methodology.
+
+## Examples
 + [Flashcards](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/01_flashcards.ipynb)
 
 : Vocabulary Quiz Generator: Have students create a Python program that generates customizable vocabulary quizzes. The program should take a list of words and their definitions as input and create a multiple-choice quiz for users to test their knowledge. The program can incorporate features like randomization of questions, adjustable difficulty levels, and performance tracking.
