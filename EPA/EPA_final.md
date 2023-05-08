@@ -32,7 +32,7 @@
 ## ♒Submission Guidelines: 
 **_🚩All materials must be in digital format._**
 
-Submit your pronunciation curriculum, including all lesson plans, materials, and assessment tools, as a single PDF or Word document.
-Include a cover page with your name, course information, and the title of your project.
-Ensure that all sources are properly cited in a consistent citation style (e.g., APA, MLA).
-Provide a digital or physical copy of your teacher's guide to the instructor for evaluation.
++ Create your pronunciation curriculum, including all lesson plans, materials, and assessment tools, as .md file format, in your github account. (Make a repository named "EPA23_MRK" (MRK - your initials at the end), folders if necessary)
++ Include your name, course information, and the title of your project.
++ Ensure that all sources are properly cited in a consistent citation style (e.g., APA, MLA).
++ Submit a Github link for evaluation.
