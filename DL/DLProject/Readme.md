@@ -16,20 +16,20 @@ The final project is to design examples of how digital tools can be used in Engl
 By following these steps, you should be able to successfully submit your final project using Github. Good luck!
 
 ## Examples
-+ [Flashcards](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/01_flashcards.ipynb)
+### [Flashcards](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/01_flashcards.ipynb)
 
 : Vocabulary Quiz Generator: Have students create a Python program that generates customizable vocabulary quizzes. The program should take a list of words and their definitions as input and create a multiple-choice quiz for users to test their knowledge. The program can incorporate features like randomization of questions, adjustable difficulty levels, and performance tracking.
 
-+ [Vocabulary Quiz Generator](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/2_VocabularyQuiz.ipynb)
+### [Vocabulary Quiz Generator](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/2_VocabularyQuiz.ipynb)
 
 : Word frequency table, Words in context. Students create a Python program that generates customizable vocabulary quizzes. The program should take a list of words and their definitions as input and create a multiple-choice quiz for users to test their knowledge. The program can incorporate features like randomization of questions, adjustable difficulty levels, and performance tracking.
 
-+ [Text Analysis Tool](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/3_WordFrequency.ipynb)
+### [Text Analysis Tool](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/3_WordFrequency.ipynb)
 
 : Students create a Python program that performs basic text analysis on a given input, such as calculating word frequency, sentence length, readability scores, or common collocations. This tool can be helpful for teachers in selecting or creating appropriate materials for their students.
 
-+ [Pronunciation Practice Tool](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/4_SpeechRecognition.ipynb)
+### [Pronunciation Practice Tool](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/4_SpeechRecognition.ipynb)
 
 : Students develop a Python application that helps users practice their pronunciation by comparing their spoken input to a reference audio file. The program should display a visual representation of the user's and the reference audio's sound waveforms, allowing users to see and understand the differences in their pronunciation. Additionally, the program can provide users with feedback and suggestions for improvement.
 
-+ [Phonetic Transcription](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/Phonetic_Transcription_Practice.ipynb)
+### [Phonetic Transcription](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/Phonetic_Transcription_Practice.ipynb)
