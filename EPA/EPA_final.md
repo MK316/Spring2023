@@ -27,7 +27,7 @@
 
 7. **Create a teacher's guide:** Compile all lesson plans, materials, and assessment tools into a comprehensive teacher's guide, ensuring that it is user-friendly, well-organized, and visually appealing.
 
-8. **Reflect on your curriculum:** Write a reflection on your curriculum development process, discussing the challenges and successes you encountered, the rationale behind your choices, and any suggestions for improvement or adaptation in different teaching contexts.
+8. **Reflect on your curriculum (1 page in pdf format):** Write a reflection on your curriculum development process, discussing the challenges and successes you encountered, the rationale behind your choices, and any suggestions for improvement or adaptation in different teaching contexts. 🚩[Submit here](https://forms.gle/yfH3Wt3QSdHpuHPk7)
 
 ## ♒Submission Guidelines: 
 **_🚩All materials must be in digital format._**
