@@ -3,7 +3,7 @@
 ## **Objective:** 
 - Create a pronunciation-focused curriculum tailored to a specific group of English learners (beginners, intermediate, or advanced).
 
-## **Instructions:**
+## **♒Instructions:**
 
 1. **Define your target group:** Choose a specific group of English learners for whom you will create the curriculum (e.g., beginners, intermediate, or advanced). Consider their age, language background, and learning needs when making your choice.
 
@@ -29,7 +29,7 @@
 
 8. **Reflect on your curriculum:** Write a reflection on your curriculum development process, discussing the challenges and successes you encountered, the rationale behind your choices, and any suggestions for improvement or adaptation in different teaching contexts.
 
-## Submission Guidelines: 
+## ♒Submission Guidelines: 
 🚩**_All materials must be in digital format._**
 
 Submit your pronunciation curriculum, including all lesson plans, materials, and assessment tools, as a single PDF or Word document.
