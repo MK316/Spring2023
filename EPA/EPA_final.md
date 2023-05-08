@@ -7,7 +7,7 @@
 
 1. **Define your target group:** Choose a specific group of English learners for whom you will create the curriculum (e.g., beginners, intermediate, or advanced). Consider their age, language background, and learning needs when making your choice.
 
-2. **Determine the curriculum duration:** Decide on the duration of your curriculum (e.g., a 10-week course, a semester-long program). Ensure that the chosen duration is appropriate for your target group and allows for measurable progress.
+2. **Determine the curriculum duration:** Decide on the duration of your curriculum (e.g., a 7-week course, a semester-long program). Ensure that the chosen duration is appropriate for your target group and allows for measurable progress.
 
 3. **Set learning objectives:** Clearly outline the pronunciation learning objectives for your target group. Consider both segmental (phonemes) and suprasegmental (stress, intonation, rhythm) aspects of pronunciation. Develop goals that are specific, measurable, achievable, relevant, and time-bound (SMART).
 
