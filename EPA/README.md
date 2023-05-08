@@ -37,11 +37,11 @@ Selected readings from:
 |W08|4/26| Pronunciation errors - what counts as an error?, <br>Pronunciation Instructions (PI) |Reading04[^4] HP discussion  ||
 |W09|5/3|Implementing technology in classroom pedagogy 1 |Reading06[^6]|[TTS](https://colab.research.google.com/github/MK316/Spring2023/blob/main/gTTS_buttoned_multi.ipynb#scrollTo=81wh4DSk48qc)|
 |W010|5/10| Implementing technology in classroom pedagogy 2|Reading06[^7]  ||
-|W011|5/17 (TBA)|Implementing technology in classroom pedagogy 3 | |💾[MFC experiment](https://drive.google.com/file/d/1Lz4R4n0_nHeLusjiMMbLB1znYZMKo4RV/view?usp=share_link)|
-|W012|5/24| Accented speech | Reading07[^8] ||
-|W013|6/7| Future directions|Reading08[^9] ||
-|W014|6/14| Project discussion (TBA) | ||
-|W015|6/21|Final project | ||
+|W011|5/17 (TBA)|Implementing technology in classroom pedagogy 3 | |💾[MFC experiment](https://drive.google.com/file/d/1Lz4R4n0_nHeLusjiMMbLB1znYZMKo4RV/view?usp=share_link)|[File to submit & Survey](https://forms.gle/2e4JLYUncYbkrPZa9)|
+|W012|5/24| Accented speech | Reading07[^8] |||
+|W013|6/7| Future directions|Reading08[^9] |||
+|W014|6/14| Project discussion (TBA) | |||
+|W015|6/21|Final project | |||
 
 [^1]: Reading 01: PF chapter 1 (Ch.1 Key concepts)
 [^2]: Reading 02: PF chapter 2 (Ch.2 Historical overview of pronunciation)
