@@ -30,7 +30,7 @@
 8. **Reflect on your curriculum:** Write a reflection on your curriculum development process, discussing the challenges and successes you encountered, the rationale behind your choices, and any suggestions for improvement or adaptation in different teaching contexts.
 
 ## ♒Submission Guidelines: 
-🚩**_All materials must be in digital format._**
+**_🚩All materials must be in digital format._**
 
 Submit your pronunciation curriculum, including all lesson plans, materials, and assessment tools, as a single PDF or Word document.
 Include a cover page with your name, course information, and the title of your project.
