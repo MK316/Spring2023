@@ -1,7 +1,7 @@
 # 📚**Final project: Pronunciation Curriculum Development**
 
 ## **Objective:** 
-- Create a comprehensive, pronunciation-focused curriculum tailored to a specific group of English learners (beginners, intermediate, or advanced).
+- Create a pronunciation-focused curriculum tailored to a specific group of English learners (beginners, intermediate, or advanced).
 
 ## **Instructions:**
 
