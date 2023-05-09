@@ -14,7 +14,7 @@
 
 ## ⛄ Other guidelines
 
-+ Video shouldn't be longer than 15 minutes.
++ The totoal runtime of the video shouldn't be longer than 15 minutes. (if made in a shorts style, then each less than 3 minutes)
 + Member contributions should be described at the end of the video.
 + Peer votes will be included in the group evaluation.
 
