@@ -1,4 +1,4 @@
-# English Linguistics Group project (Due by 6/2, Friday)
+# ⛄ Spring 2023 English Linguistics Group project (Due by 6/2, Friday)
 
 + Group projects involve reading the selected chapters by each group, discussing with members to identify the seven most interesting, informative, and shareable topics from the content. 
 
@@ -12,7 +12,7 @@
 
 + Any tool can be used, but the group that demonstrates the most effective presentation with the most easy-to-understand explanations will receive the highest score.
 
-## Other guidelines
+## ⛄ Other guidelines
 
 + Video shouldn't be longer than 15 minutes.
 + Member contributions should be described at the end of the video.
