@@ -17,3 +17,9 @@
 + Video shouldn't be longer than 15 minutes.
 + Member contributions should be described at the end of the video.
 + Peer votes will be included in the group evaluation.
+
+## Samples?
+
++ [video 1 What is culture?](https://www.youtube.com/watch?v=NSCFxDKJWwo)
++ [video 2 Drawing a tree diagram](https://www.youtube.com/watch?v=3W1PghsstfU)
++ [video 3 Who is Noam Chomsky](https://www.youtube.com/watch?v=7Cgpfw4z8cw)
