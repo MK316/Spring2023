@@ -7,6 +7,9 @@ Note: _This is AI generated images from Midjourney_
 
 
 ## 2. Moving image samples
+
++ [Video](https://youtu.be/gLeDLVJhWGU)
+
 + [Sample 1](https://sketch.metademolab.com/share/145d783348be44feaf34277fc421229f/dance001)
 + [Sample 2](https://sketch.metademolab.com/share/145d783348be44feaf34277fc421229f/hip_hop_dancing3)
 + [Sample 3](https://sketch.metademolab.com/share/c0cfbd42371b46e58823147b2c38f866/running_jump)
