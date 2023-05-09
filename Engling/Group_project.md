@@ -11,3 +11,9 @@
 + The end product should be recorded as a video and shared. 
 
 + Any tool can be used, but the group that demonstrates the most effective presentation with the most easy-to-understand explanations will receive the highest score.
+
+## Other guidelines
+
++ Video shouldn't be longer than 15 minutes.
++ Member contributions should be described at the end of the video.
++ Peer votes will be included in the group evaluation.
