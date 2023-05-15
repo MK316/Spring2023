@@ -20,7 +20,7 @@ This course aims to help students understand key principles of English pronuncia
 |W08|4/20, 25|English vowel pair 5, Review|[Midterm preview](https://colab.research.google.com/drive/1P4iyx_n34ni39hT6F1vGgn0eWVG7j6RY#scrollTo=5eu6C-Mt1az1)||
 |W09|4/27, 5/2|Midterm|||
 |W10|5/4, 9| Intonation, rhythm of English||[TTS tool](https://github.com/MK316/Spring2023/blob/main/gTTS_buttoned_multi.ipynb)|
-|W11|5/11, 16|English consonant sets 1|[Lesson14, 15](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson1415.ipynb)||
+|W11|5/11, 16|English consonant sets 1|[Lesson14, 15](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson1415.ipynb),[Lesson16](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson16.ipynb)||
 |W12|5/18, 23|English consonant sets 2|||
 |W13|5/25, 30|English consonant sets 3|||
 |W14|6/1, (6)[^1]|Sound rules, Sound linking, multiple consonants|||
