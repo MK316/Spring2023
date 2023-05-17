@@ -2,7 +2,7 @@
 
 The final project is to design examples of how digital tools can be used in English language learning or teaching methodology.
 
-## How to submit (Due by 6/)
+## How to submit (Due by 6/): Understand the outline for now.
 
 1. Create a Github account if you haven't already done so. Check your account [here](https://docs.google.com/spreadsheets/d/17SX51lCqOdtvC7cAGoX5tP9fKwVdGY5sRzMg2pXh9uk/edit#gid=0)
 2. Once you have created your account, create a new repository and name it according to your final project: **"DL23_Project_G0"** (G0 => G1, G2, G3, ...)
