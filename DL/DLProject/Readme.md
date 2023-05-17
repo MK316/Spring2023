@@ -3,12 +3,12 @@
 
 |Group| Leader's Github link| Members|
 |--|--|--|
-|G1|[이강현](https://github.com/eng-edu-lgh)||
-|G2|[서다은](https://github.com/seo03)||
-|G3|[여영록](https://github.com/gnyr324)||
-|G4|[김오현](https://github.com/okohkim)||
-|G5|[이경덕](https://github.com/GydeokLee)||
-|G6|[황승준](https://github.com/GydeokLee)||
+|G1|[이강현](https://github.com/eng-edu-lgh)|이정민, 김미진, 안수민, 김건희|
+|G2|[서다은](https://github.com/seo03)|김민영, 임수연, 이찬민, 안윤돈|
+|G3|[여영록](https://github.com/gnyr324)|이다현, 권영현, 조민혁, 김하빈|
+|G4|[김오현](https://github.com/okohkim)|안소미, 옥승민, 김선빈, 마동환, 정인혜|
+|G5|[이경덕](https://github.com/GydeokLee)|김종욱, 강선유, 손연우, 방예원|
+|G6|[황승준](https://github.com/GydeokLee)|강기륭, 조정래, 김은혜, 방선형|
 
 + 🔔The final project is to design examples of how digital tools can be used in English language learning or teaching methodology.**
 + 🔔More specifically, your final project is to design a 50-minute English lesson, utilizing **various small English learning-related apps**. These small apps include activities for learning vocabulary, quizzes, grammar, or any activities for speaking, listening, reading, and writing. You can also include English culture or literature learning activities.
