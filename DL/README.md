@@ -41,7 +41,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |W08|April 26|Project based learning||[DLW06A_part2](https://github.com/MK316/Spring2023/blob/main/DL/DLW06A_part2.ipynb)|[DLW08B](https://github.com/MK316/Spring2023/blob/main/DL/DWL08B.ipynb)|[Log#7](https://forms.gle/1Si6eRwRKi8WNNrd9)|
 |W09|May 3|**Midterm** |||||
 |W10|May 10|Natural Language Processing 1: nltk <br>|[DLmid](https://github.com/MK316/Spring2023/blob/main/DL/DL_midterm_final.ipynb), <br>[nltk tutorial.](https://realpython.com/nltk-nlp-python/)|[DLW10A-NLP1](https://github.com/MK316/Spring2023/blob/main/DL/NLP01.ipynb)|[DLW10B](https://github.com/MK316/Spring2023/blob/main/DL/DLW10B.ipynb)|[Log#8](https://forms.gle/1Si6eRwRKi8WNNrd9)|
-|W11|May 17|Natural Language Processing 2: nltk||[DLW11A-NLP2](https://github.com/MK316/Spring2023/blob/main/DL/NLP02.ipynb)|[DLWW11B](https://github.com/MK316/Spring2023/blob/main/DL/DLW11B.md)||
+|W11|May 17|Natural Language Processing 2: nltk||[DLW11A-NLP2](https://github.com/MK316/Spring2023/blob/main/DL/NLP02.ipynb)|[DLW11B](https://github.com/MK316/Spring2023/blob/main/DL/DLW11B.md)||
 |W12|May 24|Web Interface: Gradio|||||
 |W13|May 31|Integrating Technology in English Education 1: <br> Using technology to support language learning <br> Integrating technology in the English classroom|||||
 |W14|June 7|Integrating Technology in English Education 2: <br> Evaluating the impact of technology on student learning|||||
