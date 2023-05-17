@@ -1,6 +1,15 @@
 # Spring 2023 DL Final Project 
 (Guideline preview asof May 17; Tobe updated)
 
+|Group| Leader's Github link| Members|
+|--|--|--|
+|G1|[이강현](https://github.com/eng-edu-lgh)||
+|G2|[서다은](https://github.com/seo03)||
+|G3|[여영록](https://github.com/gnyr324)||
+|G4|[김오현](https://github.com/okohkim)||
+|G5|[이경덕](https://github.com/GydeokLee)||
+|G6|[황승준](https://github.com/GydeokLee)||
+
 + 🔔The final project is to design examples of how digital tools can be used in English language learning or teaching methodology.**
 + 🔔More specifically, your final project is to design a 50-minute English lesson, utilizing **various small English learning-related apps**. These small apps include activities for learning vocabulary, quizzes, grammar, or any activities for speaking, listening, reading, and writing. You can also include English culture or literature learning activities.
 
