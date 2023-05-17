@@ -1,4 +1,4 @@
-# 💦 Digital Literacy Week 11~13 Group activity
+# 💦 Digital Literacy Week 11~W13 Group activity
 
 + Attendance checking will be done by the group leader. (let me know if anyone is late or absent via kakaotalk before 11:10AM)
 + No self-log for today (5/17, 5/24).
