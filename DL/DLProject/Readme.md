@@ -1,7 +1,7 @@
 # Spring 2023 DL Final Project 
 (Guideline preview asof May 17; Tobe updated)
 
-The final project is to design examples of how digital tools can be used in English language learning or teaching methodology.
+**🔔The final project is to design examples of how digital tools can be used in English language learning or teaching methodology.**
 
 ## How to submit (Due by 6/): Understand the outline for now.
 
