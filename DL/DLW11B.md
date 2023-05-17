@@ -2,6 +2,7 @@
 
 + Today, attendance checking will be done by the group leader. (let me know if anyone is late or absent via kakaotalk before 11:10AM)
 + No self-log for today.
++ **Make use of ChatGPT** for English translation, grammar check, Python coding example, and so on. (Please proceed with this activity collaboratively, exploring together.)
 
 ## [1] Read and learn together (15 minutes)**
 
@@ -24,6 +25,5 @@ For example,
 
 + For editing, you can use emoji 😍💥🌱 [here](https://gist.github.com/rxaviers/7360908): You can copy and paste on your md file.
 + Your project should show interaction with students using digital tools, learner-centered lesson, colaborative, and technology assisted methods.
-+ **Make use of ChatGPT** for English translation, grammar check, Python coding example, and so on. (Please proceed with this activity collaboratively, exploring together.)
 + This project file can be updated till the final submission.
 
