@@ -3,6 +3,7 @@
 + Today, attendance checking will be done by the group leader. (let me know if anyone is late or absent via kakaotalk before 11:10AM)
 + No self-log for today.
 + **Make use of ChatGPT** for English translation, grammar check, Python coding example, and so on. (Please proceed with this activity collaboratively, exploring possibilities together.)
++ To collaborate effectively, you may want to assign specific tasks beforehand for today's group work (e.g., getting code, English translation and grammar check, search resources from our class material, etc.)
 
 ## [1] Read and learn together (15 minutes)**
 
