@@ -13,6 +13,13 @@
 1. As guided, create a repository "DL23_Project_G0", and create "README.md" file on the given repository (Group leader's account) > Individuals can copy the file later to your account. (Change "G0" => According to your group number)
 2. You'll be discussing/collecting ideas about your final project, and summarize your ideas step by step in your README.md file. This file should be used for your updates for 3 weeks. For today, collect ideas from your brain storming, step by step processes you can think of a small activity in classroom (your future classroom), or work load assignment among members. (Collaborative working is important, so do not simply divide workload.)
 
+For example,  
++ **Breakdown the project into tasks:** List all the tasks that need to be completed for the project to be successful. 
++ **Assign tasks:** Assign each task to a team member or a group of team members.
++ **Create a timeline:** For each task, estimate how long it will take and set a deadline. 
++ **Establish communication channels:** Determine how the team will communicate. 
++ **Track progress:** Regularly check in on the progress of tasks. If tasks are behind schedule, determine why and what can be done to get back on track.
+
 ### Notes:
 
 + For editing, you can use emoji 😍💥🌱 [here](https://gist.github.com/rxaviers/7360908): You can copy and paste on your md file.
