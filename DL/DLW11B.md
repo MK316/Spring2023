@@ -15,7 +15,7 @@
 
 ### Notes:
 
-+ For editing, you can use emoji 😍💥🌱 [here](https://gist.github.com/rxaviers/7360908): copy and paste
++ For editing, you can use emoji 😍💥🌱 [here](https://gist.github.com/rxaviers/7360908): You can copy and paste on your md file.
 + Your project should show interaction with students using digital tools, learner-centered lesson, colaborative, and technology assisted methods.
 + Use ChatGPT for English translation, grammar check, Python coding example, and so on. (Please proceed with this activity collaboratively, exploring together.)
 + This project file can be updated till the final submission.
