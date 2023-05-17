@@ -8,7 +8,7 @@
 ## [2] Todo list (the remaining time)
 
 1. As guided, create a repository "DL23_Project_G0", and create "README.md" file on the given repository (Group leader's account) > Individuals can copy the file later to your account. (Change "G0" => According to your group number)
-2. You'll be discussing/collecting ideas about your final project, and summarize your ideas and processes in your README.md file. This file shall be updated for 3 weeks. For today, collect brain storming, ideas, step by step processes you can think of a small activity in classroom (your future classroom).
+2. You'll be discussing/collecting ideas about your final project, and summarize your ideas step by step in your README.md file. This file should be used for your updates for 3 weeks. For today, collect ideas from your brain storming, step by step processes you can think of a small activity in classroom (your future classroom), or work load assignment among members. (Collaborative working is important, so do not simply divide workload.)
 
 ### Notes:
 
