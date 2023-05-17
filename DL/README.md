@@ -13,7 +13,7 @@
 |🔍[Codebook](https://github.com/MK316/Spring2023/blob/main/DL/codebooks/README.md)|🔍 [Self-log](https://forms.gle/1Si6eRwRKi8WNNrd9)||
 |🔍[emoji list](https://gist.github.com/rxaviers/7360908)|🔍 [Group activities link (4/26)](https://docs.google.com/spreadsheets/d/1xjc0V5ThZe2O3Uo-G4H_TstLyjYyTuFDKrFtwIIeyUc/edit#gid=0)||
 |🔍[DL_midterm](https://github.com/MK316/workspace/blob/main/dl230503.ipynb)|🔍[DL_midterm answerkey](https://github.com/MK316/Spring2023/blob/main/DL/dl230503_answerkey.ipynb)|🔍[Moving image](https://github.com/MK316/Spring2023/blob/main/DL/image_to_moving.md)|
-|[🍒 DL final project guideline](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/Readme.md)|🔍[Markdown simple version](https://www.markdownguide.org/cheat-sheet/)||
+|[🍒 DL final project guideline](https://github.com/MK316/Spring2023/blob/main/DL/DLProject/Readme.md)||🔍[Markdown simple version](https://www.markdownguide.org/cheat-sheet/)|
  
 
 ## 🌀 Course Overview
