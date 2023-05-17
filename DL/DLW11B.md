@@ -1,7 +1,8 @@
-# 💦 Digital Literacy Week 11 Group activity
+# 💦 Digital Literacy Week 11~13 Group activity
 
-+ Today, attendance checking will be done by the group leader. (let me know if anyone is late or absent via kakaotalk before 11:10AM)
-+ No self-log for today.
++ Attendance checking will be done by the group leader. (let me know if anyone is late or absent via kakaotalk before 11:10AM)
++ No self-log for today (5/17, 5/24).
++ If you have any questions regarding group work or final project, leave your question 📕 [here](https://docs.google.com/spreadsheets/d/1Te_yJ5ikHjzbzyykPEe8kyPP8N9FJMmJVJCWeaAdgxk/edit?usp=sharing)
 + **Make use of ChatGPT** for English translation, grammar check, Python coding example, and so on. (Please proceed with this activity collaboratively, exploring possibilities together.)
 + To collaborate effectively, you may want to assign specific tasks beforehand for today's group work (e.g., getting code, English translation and grammar check, search resources from our class material, etc.) => Use the Smart Blackboard in the room (One of the two monitors)
 
