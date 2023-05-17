@@ -1,6 +1,6 @@
 # 💦 Digital Literacy Week 11 Group activity
 
-Today, attendance checking will be done by the group leader. (let me know if anyone is late or absent via kakaotalk before 11:05AM)
+Today, attendance checking will be done by the group leader. (let me know if anyone is late or absent via kakaotalk before 11:10AM)
 ## [1] Read and learn together (15 minutes)**
 
 1. Here's a preview of the final project. Read it together. 💥[Final project guide](https://github.com/MK316/Spring2023/tree/main/DL/DLProject)
