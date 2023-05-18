@@ -22,7 +22,7 @@ This course aims to help students understand key principles of English pronuncia
 |W10|5/4, 9| Intonation, rhythm of English||[TTS tool](https://github.com/MK316/Spring2023/blob/main/gTTS_buttoned_multi.ipynb)|
 |W11|5/11, 16|English consonant sets 1|[Lesson14, 15](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson1415.ipynb),<br>[Lesson16](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson16.ipynb)||
 |W12|5/18, 23|English consonant sets 2|||
-|W13|5/25, 30|English consonant sets 3|||
+|W13|5/25, 30|English consonant sets 3||[1m recording](https://docs.google.com/spreadsheets/d/1P6XFyYceYs1nytNgMkon3-D8RayG7nMh-9yc3mrZNk8/edit#gid=0)|
 |W14|6/1, (6)[^1]|Sound rules, Sound linking, multiple consonants|||
 |W15|6/8, 13|Review|||
 |W16|6/15, 20|Final presentation (inclass)|||
