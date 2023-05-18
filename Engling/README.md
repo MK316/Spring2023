@@ -16,5 +16,5 @@
 | | | [table 4.9](https://github.com/MK316/Spring2023/blob/main/Engling/Engling_Morph_part1.ipynb)||5/2|
 |w10| Ch.4 Morphology Part2 | [quiz](https://github.com/MK316/Spring2023/blob/main/Engling/Engling_W10_Ch4P2.ipynb)|5/9|
 |w11| Group project video | [guideline](https://github.com/MK316/Spring2023/blob/main/Engling/Group_project.md) | Sharing link (to be updated)| 6/2 |
-|W12| Ch.5 Syntax | [Online tree diagram](http://mshang.ca/syntree/), [preview (not working for now)](https://.gle/YywA5G6sUbFrKd12A), [forme](https://docs.google.com/forms/d/1pmfPfxT8ca7HNbK9S4bgdmMERH1Hn7CaJTAuSe403HE/edit)|5/17|
+|W12| Ch.5 Syntax | [Online tree diagram](http://mshang.ca/syntree/), [preview]([https://.gle/YywA5G6sUbFrKd12A](https://github.com/MK316/Spring2023/blob/main/Engling/Engling_practice.ipynb)), [forme](https://docs.google.com/forms/d/1pmfPfxT8ca7HNbK9S4bgdmMERH1Hn7CaJTAuSe403HE/edit)|5/17|
 |W12| Ch. 5 Syntax | [Tree diagram practice](https://github.com/MK316/Spring2023/blob/main/Engling/treediagram.md)||
