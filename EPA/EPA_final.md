@@ -19,7 +19,7 @@
 + d. Practice activities (pair work, group work, individual tasks)
 + e. Assessment and feedback methods (formative and summative)
 + f. Homework assignments
-+ g. Extra resources for further practice or self-study
++ g. Extra resources for further practice or self-study (e.g., perception training using Praat MFC)
 
 5. **Incorporate technology:** Integrate Praat and AI tools into your lesson plans, using them to supplement instruction, facilitate practice, and assess learners' pronunciation progress. Provide a rationale for your choice of tools and how they enhance the learning experience.
 
