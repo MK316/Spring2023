@@ -39,8 +39,8 @@ Selected readings from:
 |W010|5/10| Implementing technology in classroom pedagogy 2|Reading06[^7]  ||
 |W011|5/17 (TBA)|Implementing technology in classroom pedagogy 3 |[Ch06](https://github.com/MK316/Spring2023/blob/main/EPA/Ch06.md) |💾[MFC experiment](https://drive.google.com/file/d/1Lz4R4n0_nHeLusjiMMbLB1znYZMKo4RV/view?usp=share_link)|[File to submit & Survey, Due 5/23](https://forms.gle/2e4JLYUncYbkrPZa9)|
 |W012|5/24| Assessment using technology | Reading07[^8] |[Final project](https://github.com/MK316/Spring2023/blob/main/EPA/EPA_final.md)||
-|W013|6/7| Future directions|Reading08[^9] |||
-|W014|6/14| Project discussion (TBA) | |||
+|W013|6/7| Future directions|Reading08[^9] |Project discussion|Ch.9 Discussion|
+|W014|6/14| Project discussion 2 (TBA) |Project ideas to share|||
 |W015|6/21|Final project | ||[Reflection 1-2 page](https://forms.gle/8XoVYTE9ygi8gR8s8)|
 
 [^1]: Reading 01: PF chapter 1 (Ch.1 Key concepts)
@@ -54,7 +54,7 @@ Selected readings from:
 [^6]: Reading 06: Pf chapter 7 (Ch.7 Technology in L2 pronunciation instruction)
 [^7]: Reading 07: PF chapter 8 (Ch.8 Social aspects of accent)
 [^8]: Reading 08: PF chapter 10 (Ch.10 Future directions)
-[^9]: Reading 09: BRAM chapter 1 (Ch.1 Introduction to teaching pronunciation, from Beyond Repeat After Me: Teaching Pronunciation to English Learners)
+[^9]: Reading 09: Isaacs & Trofimovich (2017) chapter 9 (Ch.9 Assessing SL Pronunciation)
 [^10]: SLPA chapter 2 (Ch.2 What do raters need in a pronunciation scale? The user's view (by Luke Harding)
 
 
