@@ -41,7 +41,7 @@ Selected readings from:
 |W012|5/24| Assessment using technology | Reading07[^8] |[Final project](https://github.com/MK316/Spring2023/blob/main/EPA/EPA_final.md)||
 |W013|6/7| Future directions|Reading08[^9] |Project discussion|Ch.9 Discussion|
 |W014|6/14| Project discussion 2 (TBA) |Project ideas to share|||
-|W015|6/21|Final project | ||[Reflection 1-2 page](https://forms.gle/8XoVYTE9ygi8gR8s8)|
+|W015|6/21|Final project presentation | ||[Reflection 1-2 page](https://forms.gle/8XoVYTE9ygi8gR8s8)|
 
 [^1]: Reading 01: PF chapter 1 (Ch.1 Key concepts)
 [^2]: Reading 02: PF chapter 2 (Ch.2 Historical overview of pronunciation)
