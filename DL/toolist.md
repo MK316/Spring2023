@@ -1,4 +1,4 @@
-# Digital tool box
+# 🔑 Digital tool box
 
 For your final project, some useful apps/codes will be provided here. You can also request help [here](https://docs.google.com/spreadsheets/d/1aastYozlAnSA5YqvLgw3fjrGsD02YtfsZY3l1q98YyI/edit?usp=sharing)
 
