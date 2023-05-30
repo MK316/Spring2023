@@ -33,7 +33,8 @@ For example,
 + Include the link on your md file: e.g., [Goto G5 Lesson]()
 Here's how to use hyperlink in md file
 ```
-[Goto G5 Lesson - This is how to be displayed](https://github.com.... /G5_Lesson.ipynb <= This is the link of your ipynb file on your github)
+[This is how to be displayed](This is the link of your ipynb file on your github): below is an example.
+[Goto G5 Lesson](https://github.com.... /G5_Lesson.ipynb)
 
 ```
 + In text cells, provide titles and instructions.
