@@ -29,3 +29,7 @@ For example,
 + Your project should show interaction with students using digital tools, learner-centered lesson, colaborative, and technology assisted methods.
 + This project file can be updated till the final submission.
 
+## [3] (5/31) Create a colab page to implement the lesson plan of your group. 
++ In text cells, provide titles and instructions.
++ In code cells, write codes referring to any material available to you. (Our class lessons, Google, or ChatGPT)
++ If you fail to implement codes, and still want to adopt the application in your lesson, leave description of what you want to generate. [Leave your inquiries here](https://docs.google.com/spreadsheets/d/1Te_yJ5ikHjzbzyykPEe8kyPP8N9FJMmJVJCWeaAdgxk/edit#gid=0)
