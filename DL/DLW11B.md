@@ -30,6 +30,12 @@ For example,
 + This project file can be updated till the final submission.
 
 ## [3] (5/31) Create a colab page to implement the lesson plan of your group. 
++ Include the link on your md file: e.g., [Goto G5 Lesson]()
+Here's how to use hyperlink in md file
+```
+[Goto G5 Lesson - This is how to be displayed](https://github.com.... /G5_Lesson.ipynb <= This is the link of your ipynb file on your github)
+
+```
 + In text cells, provide titles and instructions.
 + In code cells, write codes referring to any material available to you. (Our class lessons, Google, or ChatGPT)
 + If you fail to implement codes, and still want to adopt the application in your lesson, leave description of what you want to generate. [Leave your inquiries here](https://docs.google.com/spreadsheets/d/1Te_yJ5ikHjzbzyykPEe8kyPP8N9FJMmJVJCWeaAdgxk/edit#gid=0)
