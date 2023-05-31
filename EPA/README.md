@@ -39,7 +39,7 @@ Selected readings from:
 |W010|5/10| Implementing technology in classroom pedagogy 2|Reading06[^7]  ||
 |W011|5/17 (TBA)|Implementing technology in classroom pedagogy 3 |[Ch06](https://github.com/MK316/Spring2023/blob/main/EPA/Ch06.md) |💾[MFC experiment](https://drive.google.com/file/d/1Lz4R4n0_nHeLusjiMMbLB1znYZMKo4RV/view?usp=share_link)|[File to submit & Survey, Due 5/23](https://forms.gle/2e4JLYUncYbkrPZa9)|
 |W012|5/24| Assessment using technology | Reading07[^8] |[Final project](https://github.com/MK316/Spring2023/blob/main/EPA/EPA_final.md)|[💾ASRexp](https://github.com/MK316/Spring2023/raw/main/EPA/data/ASRexp.zip),<br> [Result file to upload](https://forms.gle/W5hETJ665UjBz8Ro6)|
-|W013|6/7| Future directions|Reading08[^9] |Project discussion|Ch.9 Discussion|
+|W013|6/7| Future directions|Reading08[^9] |Project discussion|Ch.9 Discussion, [Gradio](https://github.com/MK316/Spring2023/blob/main/DL/Gradio.ipynb)|
 |W014|6/14| Project discussion 2 (TBA) |Project ideas to share|||
 |W015|6/21|Final project presentation | ||[Reflection 1-2 page](https://forms.gle/8XoVYTE9ygi8gR8s8)|
 
