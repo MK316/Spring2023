@@ -24,7 +24,7 @@ This course aims to help students understand key principles of English pronuncia
 |W12|5/18, 23|English consonant sets 2|[Lesson 17](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson17.ipynb)||
 |W13|5/25, 30|English consonant sets 3||[1m recording](https://docs.google.com/spreadsheets/d/1P6XFyYceYs1nytNgMkon3-D8RayG7nMh-9yc3mrZNk8/edit#gid=0)|
 |W14|6/1, 8(6)[^1]|Sound rules, Sound linking, multiple consonants||[Self-assessment 0608](https://github.com/MK316/Spring2023/blob/main/Engpro/selfassessment.ipynb), [link](https://forms.gle/wBsGp4yighSRuAWQ6)|
-|W15|6/15, 20|Final presentation (inclass)|||
+|W15|6/15, 20|Final presentation (inclass)|[Presentation ordering](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_presentation_ordering.ipynb)||
 
 
 [^1]: Holiday (no class)
