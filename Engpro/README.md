@@ -23,7 +23,7 @@ This course aims to help students understand key principles of English pronuncia
 |W11|5/11, 16|English consonant sets 1|[Lesson14, 15](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson1415.ipynb),<br>[Lesson16](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson16.ipynb)||
 |W12|5/18, 23|English consonant sets 2|[Lesson 17](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson17.ipynb)||
 |W13|5/25, 30|English consonant sets 3||[1m recording](https://docs.google.com/spreadsheets/d/1P6XFyYceYs1nytNgMkon3-D8RayG7nMh-9yc3mrZNk8/edit#gid=0)|
-|W14|6/1, (6)[^1]|Sound rules, Sound linking, multiple consonants|||
+|W14|6/1, (6)[^1]|Sound rules, Sound linking, multiple consonants||[Self-assessment 0608](https://github.com/MK316/Spring2023/blob/main/Engpro/selfassessment.ipynb), [link](https://forms.gle/wBsGp4yighSRuAWQ6)|
 |W15|6/8, 13|Review|||
 |W16|6/15, 20|Final presentation (inclass)|||
 |TBA|6/22|TBA|||
