@@ -59,7 +59,7 @@ By the end of this course, students will have a strong foundation in digital lit
  
 **Note:** 
 1. Video has to be linked on your README.md file (Group leader's repository)
-2. 👌Final evaluation of your project will be **on 6/21 (Tuesday)**. No changes are allowed after 11:59PM on 6/17(Saturday).
+2. 👌Final evaluation of your project by the instructor will be **on 6/22 (Wednesday)**. No changes are allowed after 11:59PM on 6/17(Saturday).
  
 ## Classtools
 
