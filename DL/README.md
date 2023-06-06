@@ -50,16 +50,16 @@ By the end of this course, students will have a strong foundation in digital lit
 
 
 ---
-## 🌀 DL Final exam (6/14 Wednesday; Individual group evaluation by 6/17)
+## 🌀 DL Final exam (6/14 Wednesday; Individual group evaluation by 6/21)
 
 |Group | Time | Todo| Group evaluation |
 |--|--|--|--|
-|Group 1, 2, 3| 11~12AM | Video recording of your project (Less than 15 minutes)| 🐋 Evaluation form will be available here [6/15 ~ 6/17]|
+|Group 1, 2, 3| 11~12AM | Video recording of your project (Less than 15 minutes)| 🐋 Evaluation form will be available here [6/18 ~ 6/21]|
 |Group 4, 5, 6| 11~12AM | Final exam (Rm#127)|🐋 [Evaluation rubric]() |
  
 **Note:** 
 1. Video has to be linked on your README.md file (Group leader's repository)
-2. 👌Final evaluation of your project will be **on 6/17 (Saturday)**. No changes are allowed after 11:59PM on Friday (Saturday).
+2. 👌Final evaluation of your project will be **on 6/21 (Tuesday)**. No changes are allowed after 11:59PM on 6/17(Saturday).
  
 ## Classtools
 
