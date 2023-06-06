@@ -57,7 +57,9 @@ By the end of this course, students will have a strong foundation in digital lit
 |Group 1, 2, 3| 11~12AM | Video recording of your project (Less than 15 minutes)|
 |Group 4, 5, 6| 11~12AM | Final exam (Rm#127)|
  
-**Note:** 👌Final evaluation of your project will be **on 6/17 (Saturday)**. No changes are allowed after 11:59PM on Friday (Saturday).
+**Note:** 
+1. Video has to be linked on your README.md file (Group leader's repository)
+2. 👌Final evaluation of your project will be **on 6/17 (Saturday)**. No changes are allowed after 11:59PM on Friday (Saturday).
  
 ## Classtools
 
