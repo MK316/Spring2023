@@ -52,9 +52,9 @@ By the end of this course, students will have a strong foundation in digital lit
 ---
 ## 🌀 DL Final exam (6/14 Wednesday)
 
-|Group | Time | Todo|
-|--|--|--|
-|Group 1, 2, 3| 11~12AM | Video recording of your project (Less than 15 minutes)|
+|Group | Time | Todo| Group evaluation |
+|--|--|--|--|
+|Group 1, 2, 3| 11~12AM | Video recording of your project (Less than 15 minutes)| 🐋 Evaluation form will be available here [6/15 ~ 6/17]|
 |Group 4, 5, 6| 11~12AM | Final exam (Rm#127)|
  
 **Note:** 
