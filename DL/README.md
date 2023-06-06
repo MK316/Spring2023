@@ -50,7 +50,7 @@ By the end of this course, students will have a strong foundation in digital lit
 
 
 ---
-## 🌀 DL Final exam (6/14 Wednesday; Individual group evaluation by 6/21)
+## 🌀 DL Final exam (6/14 Wednesday; Group evaluation by 6/21)
 
 |Group | Time | Todo| Group evaluation |
 |--|--|--|--|
