@@ -54,8 +54,8 @@ By the end of this course, students will have a strong foundation in digital lit
 
 |Group | Time | Todo| Group evaluation |
 |--|--|--|--|
-|Group 1, 2, 3| 11~12AM | Video recording of your project (Less than 15 minutes)| 🐋 Evaluation form below [6/18 ~ 6/21]|
-|Group 4, 5, 6| 11~12AM | Final exam (Rm#127)|🐋 [Evaluation: one per group](https://forms.gle/LgXtaxsvWtfTFGdC7) |
+|Group 1, 5| 11~12AM | Video recording of your project (Less than 15 minutes)| 🐋 Evaluation form below [6/18 ~ 6/21]|
+|Group 2, 6| 11~12AM | Final exam (Rm#127)|🐋 [Evaluation: one per group](https://forms.gle/LgXtaxsvWtfTFGdC7) |
  
 **Note:** 
 1. Video has to be linked on your README.md file (Group leader's repository)
