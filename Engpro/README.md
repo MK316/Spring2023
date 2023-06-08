@@ -23,7 +23,7 @@ This course aims to help students understand key principles of English pronuncia
 |W11|5/11, 16|English consonant sets 1|[Lesson14, 15](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson1415.ipynb),<br>[Lesson16](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson16.ipynb)||
 |W12|5/18, 23|English consonant sets 2|[Lesson 17](https://github.com/MK316/Spring2023/blob/main/Engpro/Lesson17.ipynb)||
 |W13|5/25, 30|English consonant sets 3||[1m recording](https://docs.google.com/spreadsheets/d/1P6XFyYceYs1nytNgMkon3-D8RayG7nMh-9yc3mrZNk8/edit#gid=0)|
-|W14|6/1, 8(6)[^1]|Sound rules, Sound linking, multiple consonants||[Self-assessment 0608](https://github.com/MK316/Spring2023/blob/main/Engpro/selfassessment.ipynb), [link](https://forms.gle/wBsGp4yighSRuAWQ6)|
+|W14|6/1, 8(6)[^1]|Sound rules, Sound linking, multiple consonants|[Feedback email address](https://docs.google.com/spreadsheets/d/1u0bkUzaQC4Vcl3QCc4i0IsLn4TeJ7_ddkAXkTZGuIVk/edit?usp=sharing)|[Self-assessment 0608](https://github.com/MK316/Spring2023/blob/main/Engpro/selfassessment.ipynb), [link](https://forms.gle/wBsGp4yighSRuAWQ6)|
 |W15|6/15, 20|Final presentation (inclass)|[Presentation ordering](https://github.com/MK316/Spring2023/blob/main/Engpro/Engpro_presentation_ordering.ipynb)|[Evaluation form](https://docs.google.com/spreadsheets/d/1uqsR-ygFP2Fg-xeUPu0m0hrSng8FxSqUIwgAr5F2n3o/edit?usp=sharing)|
 
 
