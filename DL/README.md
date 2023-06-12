@@ -52,12 +52,17 @@ By the end of this course, students will have a strong foundation in digital lit
 ---
 ## 🌀 DL Final exam (6/14 Wednesday; Group evaluation by 6/21)
 
+**Announcement (asof 6/12)**
++ There are slight changes to the schedule due to the current COVID-19 situation. Please prepare the video according to your group's preference, and the exam will be conducted in Room 127 according to the original exam schedule.
++ Groups 3,4: use the seminar room as scheduled. The other groups will prepare the video via zoom meeting or other means of online meetings. 
+ 
 |Group | Time | Todo| Group evaluation |
 |--|--|--|--|
-|Group 1, 4, 5| 11AM~12 | Video recording of your project (Less than 15 minutes)| 🐋 Evaluation form below [6/18 ~ 6/21]|
+|Group 4| 11AM~12 | Video recording of your project (Less than 15 minutes)| 🐋 Evaluation form below [6/18 ~ 6/21]|
 ||12~1PM| Final exam (Rm#127)||
-|Group 2, 3, 6| 11AM~12 | Final exam (Rm#127)|🐋 [Evaluation: one per group](https://forms.gle/LgXtaxsvWtfTFGdC7) |
+|Group 3| 11AM~12 | Final exam (Rm#127)|🐋 [Evaluation: one per group](https://forms.gle/LgXtaxsvWtfTFGdC7) |
 ||12~1PM| Video recording||
+|Groups 1,2,5,6| | Video recording through non-face-to-face group activities.||
  
 **Note:** 
 1. Video has to be linked on your README.md file (Group leader's repository)
