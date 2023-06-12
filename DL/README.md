@@ -60,7 +60,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |--|--|--|--|
 |Group 4| 11AM~12 | Video recording of your project (Less than 15 minutes)| 🐋 Evaluation form below [6/18 ~ 6/21]|
 ||12~1PM| Final exam (Rm#127)||
-|Group 3| 11AM~12 | Final exam (Rm#127)|🐋 [Evaluation: one per group](https://forms.gle/LgXtaxsvWtfTFGdC7) |
+|Group 3| 11AM~12 | Final exam (Rm#127)|🐋 [Evaluation: one per group by 6/21 (Wed)](https://forms.gle/LgXtaxsvWtfTFGdC7) |
 ||12~1PM| Video recording||
 |Groups 1,2,5,6| | Video recording through non-face-to-face group activities.||
  
