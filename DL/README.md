@@ -46,7 +46,7 @@ By the end of this course, students will have a strong foundation in digital lit
 |W12|May 24|Web Interface: Gradio||[DLW11A-NLP2](https://github.com/MK316/Spring2023/blob/main/DL/NLP02.ipynb)|[DLW12B](https://github.com/MK316/Spring2023/blob/main/DL/DLW11B.md)||
 |W13|May 31|Integrating Technology in English Education 1: <br> Using technology to support language learning <br> Integrating technology in the English classroom|[📒 Code Cookbook](https://github.com/MK316/Spring2023/blob/main/DL/toolist.md)|[DLW13A](https://github.com/MK316/Spring2023/blob/main/DL/Gradio.ipynb)|[DLW13B](https://github.com/MK316/Spring2023/blob/main/DL/DLW11B.md)|[Log#09](https://forms.gle/3bpT8pTj9oD9eT2m9)|
 |W14|June 7|Integrating Technology in English Education 2: <br> Evaluating the impact of technology on student learning||[DLW14](https://github.com/MK316/Spring2023/blob/main/DL/DLW14A.ipynb)|Prepare group project|[POST survey](https://forms.gle/6YjuTURSGNoEGfVi8)|
-|**W15**|June 14|Final exam (project-based exam)|||||
+|**W15**|June 14|Final exam (project-based exam)||||[Final self-log](https://forms.gle/e3bvwLzYd6hWVT1d8)|
 
 
 ---
